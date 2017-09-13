@@ -31,9 +31,7 @@ executed in parallel. Hence the above three steps will use the computation stren
 reduce the time required to process the authority pages for the given Web Graph.
 Algorithms such as Kleinberg‘s HITS algorithm, the PageRank algorithm of Brin
 and Page, and the SALSA algorithm of Lempel and Moran use the link structure of a
-network of webpages to assign weights to each page in the network. The weights can then
-
-7
+network of webpages to assign weights to each page in the network. The weights can then 
 be used to rank the pages as authoritative sources. These algorithms share a common
 underpinning; they find a dominant eigenvector of a non-negative matrix that describes
 the link structure of the given network and use the entries of this eigenvector as the page
