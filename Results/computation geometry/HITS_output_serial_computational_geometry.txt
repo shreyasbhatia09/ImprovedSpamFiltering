@@ -1,0 +1,4904 @@
+1.)0.385395
+Geometry in Action
+http://www.ics.uci.edu/~eppstein/geom.html
+
+2.)0.31786
+Directory of Computational Geometry Software
+http://www.geom.umn.edu/software/cglist
+
+3.)0.277082
+The former CGAL home page
+http://www.cs.uu.nl/CGAL
+
+4.)0.255731
+The Geometry Junkyard
+http://www.ics.uci.edu/~eppstein/junkyard
+
+5.)0.229924
+Computational Geometry Resources
+http://www.scs.carleton.ca/~csgs/resources/cg.html
+
+6.)0.200766
+The Geometry Center Welcome Page
+http://www.geom.umn.edu
+
+7.)0.181169
+David Eppstein
+http://www.ics.uci.edu/~eppstein
+
+8.)0.166163
+LEDA - Main Page of LEDA Research
+http://www.mpi-sb.mpg.de/LEDA/leda.html
+
+9.)0.160727
+The Stony Brook Algorithm Repository
+http://www.cs.sunysb.edu/~algorith
+
+10.)0.143302
+CG Tribune
+http://www.inria.fr/prisme/personnel/bronnimann/cgt
+
+11.)0.104807
+Application Challenges to Computational Geometry
+http://graphics.lcs.mit.edu/~seth/pubs/taskforce/techrep.html
+
+12.)0.103894
+Joseph O'Rourke
+http://www.cs.smith.edu/~orourke
+
+13.)0.10104
+Info about Nina Amenta
+http://www.geom.umn.edu/~nina
+
+14.)0.0962355
+Roberto Tamassia's Home Page
+http://www.cs.brown.edu/people/rt
+
+15.)0.0941706
+SOLID - Software Library for Interference Detection
+http://www.win.tue.nl/cs/tt/gino/solid
+
+16.)0.0921485
+Computational Geometry Pages
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom
+
+17.)0.090767
+Bernard Chazelle's Home Page
+http://www.cs.princeton.edu/~chazelle
+
+18.)0.0866425
+Mesh Generation & Grid Generation on the Web
+http://www-users.informatik.rwth-aachen.de/~roberts/meshgeneration.html
+
+19.)0.0800995
+journal of graphics tools (jgt)
+http://www.acm.org/jgt
+
+20.)0.0783194
+Strategic Directions in Computational Geometry Working Group Report
+http://www.cs.brown.edu/people/rt/sdcr/report.html
+
+21.)0.076675
+Yahoo!
+http://www.yahoo.com
+
+22.)0.0760292
+Geometry Publications by Author
+http://www.ics.uci.edu/~eppstein/gina/authors.html
+
+23.)0.0759565
+Steven Skiena
+http://www.cs.sunysb.edu/~skiena
+
+24.)0.0750682
+LINK: Peak-time overload
+http://link.springer.de/link/service/journals/00454
+
+25.)0.0746964
+Computational Geometry on the WWW
+http://www.dcc.unicamp.br/~guialbu/geompages.html
+
+26.)0.0731564
+/netlib/compgeom
+http://netlib.bell-labs.com/netlib/compgeom
+
+27.)0.0724616
+Seth Teller
+http://graphics.lcs.mit.edu/~seth
+
+28.)0.0673327
+Fast Robust Predicates for Computational Geometry
+http://www.cs.cmu.edu/~quake/robust.html
+
+29.)0.0671809
+Center for Discrete Mathematics and Theoretical Computer Science (DIMACS)
+http://dimacs.rutgers.edu
+
+30.)0.0640872
+ACM SIGGRAPH
+http://www.siggraph.org
+
+31.)0.0626158
+SCG 98
+http://www.cs.umn.edu/scg98
+
+32.)0.06206
+Triangle:  A Two-Dimensional Quality Mesh Generator
+http://www.cs.cmu.edu/~quake/triangle.html
+
+33.)0.0620251
+Computational Geometry, Algorithms and Applications
+http://www.cs.ruu.nl/geobook
+
+34.)0.0609441
+Course Page -- Computational Geometry (CMSC 754)
+http://www.cs.umd.edu/~samir/754/754.html
+
+35.)0.0592049
+Netlib
+http://www.netlib.org
+
+36.)0.0583861
+Herv&eacute; Br&ouml;nnimann
+http://www.inria.fr/prisme/personnel/bronnimann
+
+37.)0.0578362
+Geometry in Action: Geometric References
+http://www.ics.uci.edu/~eppstein/gina/geom.html
+
+38.)0.0565578
+The Interactive Geometry Software Cinderella
+http://www.cinderella.de
+
+39.)0.0552264
+Courant Institute Geometry Seminar
+http://www.math.nyu.edu/seminars/geometry_seminar.html
+
+40.)0.0549713
+Computational Geometry Pages
+http://www.uiuc.edu/ph/www/jeffe/compgeom
+
+41.)0.0542498
+SDCR Computional Geometry Working Group Materials
+http://www.cs.brown.edu/people/rt/sdcr/cg.html
+
+42.)0.0541335
+Computational Geometry Pages
+http://granmapa.cs.uiuc.edu/~jeffe/compgeom/compgeom.html
+
+43.)0.0540598
+ACM SIGACT
+http://sigact.acm.org/sigact
+
+44.)0.0534779
+Ken Clarkson
+http://cm.bell-labs.com/cm/cs/who/clarkson
+
+45.)0.0521848
+Center for Geometric Computing
+http://www.cs.brown.edu/cgc
+
+46.)0.0516906
+hull - convex hulls, Delaunay triangulations, alpha shapes
+http://cm.bell-labs.com/netlib/voronoi/hull.html
+
+47.)0.0515092
+The Voronoi Web Site
+http://www.Voronoi.com
+
+48.)0.0511783
+The Computer Vision Homepage
+http://www.cs.cmu.edu/~cil/vision.html
+
+49.)0.0509236
+A Gallery of Interactive On-Line Geometry
+http://www.geom.umn.edu/apps/gallery.html
+
+50.)0.047362
+CG '97 -- Call for Participation
+http://www-info1.informatik.uni-wuerzburg.de/CG97
+
+51.)0.0468806
+Welcome to Springer
+http://www.springer.de
+
+52.)0.0467868
+Computational Geometry Stuff
+http://www.math.tau.ac.il/~sariel/CG.html
+
+53.)0.0465763
+IJCGA
+http://www.wspc.com.sg/journals/ijcga/ijcga.html
+
+54.)0.046175
+Bienvenue sur le site Web de l'INRIA
+http://www.inria.fr
+
+55.)0.0460819
+ACM: Association for Computing Machinery, the world's first educational and scientific computing society.
+http://www.acm.org
+
+56.)0.0457519
+Links in Computational Geometry
+http://www.cis.tu-graz.ac.at/igi/oaich/vorlesungen/geom.html
+
+57.)0.0456436
+Queen's University CCCG'97 Conference Page
+http://www.qucis.queensu.ca/cccg97
+
+58.)0.0454844
+Computational Geometry
+http://www.sonic.net/~sjl/compgeom.html
+
+59.)0.0451249
+Nina Amenta at UT Austin
+http://www.cs.utexas.edu/users/amenta
+
+60.)0.0449813
+Mathematics Archives - Topics in Mathematics - Computational Geometry
+http://archives.math.utk.edu/topics/computationalGeom.html
+
+61.)0.0449724
+600.488 Geometric Algorithms
+http://www.cs.jhu.edu/~goodrich/teach/geom
+
+62.)0.0448901
+1.6 Computational Geometry
+http://www.cs.sunysb.edu/~algorith/major_section/1.6.shtml
+
+63.)0.0446983
+Personal Page of Martin Held
+http://www.cosy.sbg.ac.at/~held/held.html
+
+64.)0.0446503
+David Dobkin
+http://www.cs.princeton.edu/~dpd
+
+65.)0.0428538
+Home page for Qhull
+http://www.geom.umn.edu/software/qhull
+
+66.)0.042526
+Brown University Department of Computer Science
+http://www.cs.brown.edu
+
+67.)0.042319
+Directory of Computational Geometry Software
+http://www.geom.umn.edu/locate/cglist
+
+68.)0.041983
+Enclosing Ball Code
+http://vision.ucsd.edu/~dwhite/ball.html
+
+69.)0.041961
+Empty title field
+http://www.cs.cmu.edu/~ph/mesh.bib
+
+70.)0.0415732
+Gesellschaft f¸r Informatik - Fachgruppe&nbsp;0.1.2 Algorithmische Geometrie
+http://pine.fernuni-hagen.de/GI/fachgruppe_0.1.2
+
+71.)0.0415025
+Computational Geometry
+http://www.ics.uci.edu/~eppstein/266
+
+72.)0.0407996
+Meshing Research Corner
+http://www.andrew.cmu.edu/user/sowen/mesh.html
+
+73.)0.040284
+Empty title field
+http://www.dcc.unicamp.br/~mmh/links.html
+
+74.)0.040284
+GA
+http://www.dmi.ens.fr/users/pocchiol/ga.html
+
+75.)0.0394969
+Pankaj Agarwal's Home Page
+http://www.cs.duke.edu/~pankaj
+
+76.)0.0394596
+Alan Murta's Public Software (gpc)
+http://www.cs.man.ac.uk/aig/staff/alan/software
+
+77.)0.0387869
+Center for Algorithm Engineering
+http://www.cs.jhu.edu/labs/cgc
+
+78.)0.0385104
+Empty title field
+http://www.inf.ethz.ch/department/TI/pw
+
+79.)0.0384158
+Empty title field
+http://www.research.microsoft.com/research/graphics/hoppe
+
+80.)0.038265
+Simplification Envelopes
+http://www.cs.unc.edu/~geom/envelope.html
+
+81.)0.037576
+Graph Drawing Tools
+http://www.cs.uni-sb.de/RW/users/sander/html/gstools.html
+
+82.)0.0375672
+UNC Research Group on Geometry, Physically-Based Simulation, and Applications
+http://www.cs.unc.edu/~geom
+
+83.)0.0374802
+A Gallery of Interactive On-Line Geometry
+http://www.geom.umn.edu/apps
+
+84.)0.0374049
+ACM Workshop on Applied Computational Geometry
+http://www.cs.unc.edu/~geom/wacg96.html
+
+85.)0.0368472
+Julien Basch
+http://graphics.stanford.edu/~jbasch
+
+86.)0.0366577
+1st CGC Workshop on Computational Geometry
+http://www.cs.jhu.edu/labs/cgc/cgc_conf.html
+
+87.)0.0363026
+Computational Geometers
+http://www.csi.uottawa.ca/~jorge/CompGeomInfo/People.html
+
+88.)0.0362861
+PRISME
+http://www.inria.fr/Equipes/PRISME-eng.html
+
+89.)0.0357787
+Department of Computing and Information Science, Queen's University
+http://www.qucis.queensu.ca
+
+90.)0.0356608
+Symposium on Computational Geometry (SCG) '96
+http://www.cs.jhu.edu/Conferences/SCG96
+
+91.)0.0352057
+I've moved!
+http://www.cs.berkeley.edu/~jeffe/compgeom.html
+
+92.)0.0350424
+LEDA - Main Page of LEDA Research
+http://www.mpi-sb.mpg.de/LEDA
+
+93.)0.0350272
+RAPID -- Robust and Accurate Polygon Interference Detection System
+http://www.cs.unc.edu/~geom/OBB/OBBT.html
+
+94.)0.0349957
+Fast Industrial-Strength Triangulation
+http://www.cosy.sbg.ac.at/~held/projects/triang/triang.html
+
+95.)0.0349949
+Zeus and Algorithm Animation at SRC
+http://www.research.digital.com/SRC/zeus/home.html
+
+96.)0.0349351
+GANG | Geometry Analysis Numerics Graphics
+http://www.gang.umass.edu
+
+97.)0.0348552
+UCSTRI -- Cover Page
+http://www.cs.indiana.edu/cstr/search
+
+98.)0.0341657
+Empty title field
+http://netlib.bell-labs.com/netlib/compgeom/discuss/archive/96/taskforce.html
+
+99.)0.0341289
+Welcome to SGI
+http://www.sgi.com
+
+100.)0.0335893
+68U: Computer graphics and computational geometry
+http://www.math.niu.edu/~rusin/known-math/index/68U05.html
+
+101.)0.0332611
+FU Berlin, Institute of Computer Science WWW Entry Point
+http://www.inf.fu-berlin.de
+
+102.)0.0332457
+Graphviz
+http://www.research.att.com/sw/tools/graphviz
+
+103.)0.0329338
+Ken Clarkson
+http://cm.bell-labs.com/who/clarkson
+
+104.)0.0328415
+Home Page for Marshall Bern
+http://www.parc.xerox.com/csl/members/bern
+
+105.)0.0328353
+Dan Halperin's Home Page
+http://www.math.tau.ac.il/~halperin
+
+106.)0.032683
+Jack  Snoeyink
+http://www.cs.ubc.ca/spider/snoeyink
+
+107.)0.0324444
+Demokin
+http://www-graphics.stanford.edu/~jbasch/demokin
+
+108.)0.0324335
+Reconstruction
+http://www.geom.umn.edu/software/cglist/recon.html
+
+109.)0.0322425
+Visibility and Graph Drawing Research Home Page
+http://www.cs.uleth.ca/~wismath/vis.html
+
+110.)0.0321841
+Computer Vision Source Code
+http://www.cs.cmu.edu/~cil/v-source.html
+
+111.)0.0321818
+GTS - The GNU Triangulated Surface Library
+http://gts.sourceforge.net
+
+112.)0.0320643
+Computational Geometry Code
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/code.html
+
+113.)0.0320455
+Random Objects
+http://www.cosy.sbg.ac.at/~held/projects/rpg/rpg.html
+
+114.)0.0317471
+Strategic Directions in Computational Geometry  Working Group Report
+http://www.cs.brown.edu/people/rt/sdcr/report/report.html
+
+115.)0.0316894
+Computational Geometry in C (Second Edition)
+http://cs.smith.edu/~orourke/books/compgeom.html
+
+116.)0.0316271
+QMG project
+http://www.cs.cornell.edu/Info/People/vavasis/qmg-home.html
+
+117.)0.0315046
+Invalid username specification
+http://www.cs.purdue.edu/people/bajaj
+
+118.)0.0312544
+Terrain Simplification (Terra/Scape)
+http://www.cs.cmu.edu/~garland/scape
+
+119.)0.0310728
+The program DUST
+http://www.informatik.uni-koeln.de/ls_juenger/projects/dust.html
+
+120.)0.0305254
+VideHoc: A Visualizer for Homogeneous Coordinates
+http://www.cs.ubc.ca/nest/imager/contributions/bobl/videhoc/top.html
+
+121.)0.0304964
+News about Qhull
+http://www.geom.umn.edu/~bradb/qhull-news.html
+
+122.)0.0304415
+Yahoo! Science &gt; Mathematics
+http://www.yahoo.com/Science/Mathematics
+
+123.)0.0303776
+Gert Vegter
+http://www.cs.rug.nl/~gert
+
+124.)0.0298404
+Dinesh Manocha
+http://www.cs.unc.edu/~dm
+
+125.)0.0293932
+Obsolete link: PORTA
+http://www.iwr.uni-heidelberg.de/iwr/comopt/soft/PORTA/readme.html
+
+126.)0.0293477
+comp.graphics.algorithms Frequently Asked Questions
+http://www.cis.ohio-state.edu/hypertext/faq/usenet/graphics/algorithms-faq/faq.html
+
+127.)0.0289156
+UPC Computational Geometry Research Group
+http://www-ma2.upc.es/~geomc/gcwww.html
+
+128.)0.0287894
+Welcome to the ACM Digital Library
+http://www.acm.org/dl
+
+129.)0.0287696
+GEOMETRIE ALGORITHMIQUE
+http://www.inria.fr/prisme/personnel/boissonnat/generalites_CG.html
+
+130.)0.0287679
+Computing the Distance between Objects
+http://www.comlab.ox.ac.uk/oucl/users/stephen.cameron/distances.html
+
+131.)0.0285587
+BSP Tree FAQ
+http://reality.sgi.com/bspfaq
+
+132.)0.0285332
+FernUniversit&auml;t Hagen, Praktische Informatik VI
+http://pine.fernuni-hagen.de
+
+133.)0.0285145
+Convex and Computational Geometry research group
+http://www.math-inst.hu/staff/geometry.html
+
+134.)0.0285145
+URL of the Homepage of fcg has changed!
+http://iamwww.unibe.ch/~fcglib
+
+135.)0.0281142
+GeomLib
+http://graphics.lcs.mit.edu/~seth/geomlib/geomlib.html
+
+136.)0.0280906
+National Science Foundation (NSF) - Home Page
+http://www.nsf.gov
+
+137.)0.0279156
+Paola Magillo Home Page
+http://www.disi.unige.it/person/MagilloP
+
+138.)0.0277885
+Jorge Stolfi's Welcome Page
+http://www.dcc.unicamp.br/~stolfi
+
+139.)0.0276566
+Department of Computer Science - Princeton University
+http://www.cs.princeton.edu
+
+140.)0.0276187
+The Polyhedral Library
+http://www.ee.byu.edu/~wilde/polyhedra.html
+
+141.)0.0275816
+Empty title field
+http://hrl.harvard.edu/people/postdocs/rlo/rlo.dir/rlo-soft.html
+
+142.)0.0275093
+Codes of Partitioning Algorithms
+http://vlsicad.cs.ucla.edu/~cheese/codes.html#cl_code
+
+143.)0.0275093
+Reality Redirection page
+http://reality.sgi.com/employees/atul/code/chapter.html
+
+144.)0.0275093
+Toposcope Project
+http://www.dcc.unicamp.br/~stolfi/EXPORT/projects/toposcope/Welcome.html
+
+145.)0.0275093
+Recent Programs
+http://www.mpi-sb.mpg.de/~mehlhorn/Programs.html
+
+146.)0.0275093
+Empty title field
+http://userpage.fu-berlin.de/~wwwgravi/gravi_ag/mitarbeiter/chrisK/austin_new/fr_list_tab3.html
+
+147.)0.0275093
+QSlim Simplification Software
+http://www.cs.cmu.edu/~garland/quadrics/qslim.html
+
+148.)0.0275093
+Index of /~stolfi/EXPORT/software/c
+http://www.dcc.unicamp.br/~stolfi/EXPORT/software/c
+
+149.)0.0275093
+TopoVista
+http://www.cs.arizona.edu/topovista
+
+150.)0.0275093
+MHRI WWW Error Handler
+http://www.mhri.edu.au/~pdb/geometry/polyarea.html
+
+151.)0.0275093
+John Sullivan's Software
+http://www.geom.umn.edu/~sullivan/software
+
+152.)0.0275093
+Super Delaunay Page has moved
+http://www.hut.fi/~smutanen/david
+
+153.)0.0275093
+MHRI WWW Error Handler
+http://www.mhri.edu.au/~pdb/geometry/insidepoly
+
+154.)0.0275093
+DETERMINANTS
+http://www.inria.fr/prisme/personnel/yvinec/Determinants/english.html
+
+155.)0.0275093
+Polytope Visualization: Peek
+http://www.graphics.cornell.edu/~gordon/peek
+
+156.)0.0275093
+The Ehrhart polynomials and parametric vertices program
+http://icps.u-strasbg.fr/Ehrhart/program/program.html
+
+157.)0.0273887
+Mark Overmars homepage
+http://www.cs.ruu.nl/people/markov
+
+158.)0.0273336
+Wolfram Research, Inc.
+http://www.wolfram.com
+
+159.)0.0270977
+Alexander Wolff's former homepage
+http://www.inf.fu-berlin.de/~awolff
+
+160.)0.0267773
+GEOLAB Homepage
+http://geolab.larc.nasa.gov
+
+161.)0.0263825
+Simple N-gon Counter
+http://www.geom.umn.edu/~burgiel/Java/Ngons/ngons.html
+
+162.)0.026185
+Komei Fukuda's Home Page
+http://www.ifor.math.ethz.ch/staff/fukuda/fukuda.html
+
+163.)0.0261723
+Victor J. Milenkovic
+http://www.cs.miami.edu/~vjm
+
+164.)0.0261349
+Bad link. Bad, Bad Link!
+http://www.skypoint.com/subscribers/ashbury/linear-programming-faq.html
+
+165.)0.0261087
+Brian Mirtich
+http://www.merl.com/people/mirtich
+
+166.)0.0258302
+Geomview Home Page
+http://www.geom.umn.edu/software/geomview
+
+167.)0.0258264
+D. T. Lee's Home Page
+http://web.ece.nwu.edu/~dtlee
+
+168.)0.0257354
+Franco P. Preparata's Home Page
+http://www.cs.brown.edu/people/franco
+
+169.)0.0257242
+Clippoly
+http://www.ph.tn.tudelft.nl/People/klamer/clippoly_entry.html
+
+170.)0.0254932
+Computational Geometry
+http://www.cs.princeton.edu/~ah/compgeom.html
+
+171.)0.0254904
+Paul Heckbert's Web Page
+http://www.cs.cmu.edu/~ph
+
+172.)0.0254516
+Index of /hypertext/faq/
+http://www.cis.ohio-state.edu/hypertext
+
+173.)0.0254516
+Facultad de Ingenier&iacute;a - U.N.L.P.
+http://www.ing.unlp.edu.ar
+
+174.)0.0254516
+Index of /~capin/en/docs/
+http://ligwww.epfl.ch/~capin/en/docs
+
+175.)0.0254516
+WWW-Server wwwpi6.fernuni-hagen.de
+http://pine.fernuni-hagen.de/GI
+
+176.)0.0254516
+Laboratoire LISSE (ENSM.SE)
+http://www.emse.fr/ECOLE/FRENCH/SIMADE/LISSE
+
+177.)0.0254516
+Index of /Research/ResGroups
+http://www.sys.uea.ac.uk/Research/ResGroups
+
+178.)0.0254516
+PRISME
+http://www.inria.fr/prisme/prisme_eng.html
+
+179.)0.0254264
+Paul's Geometry Picks
+http://www.is.montclair.edu/~zeller/courses/geometry.html
+
+180.)0.0254264
+Geometry page
+http://www.scit.wlv.ac.uk/university/scit/maths/geometry.htm
+
+181.)0.0252816
+Collected Algorithms of the ACM
+http://www.acm.org/calgo
+
+182.)0.0252722
+An Electronic Primer on Geometric Constraint Solving
+http://www.cs.purdue.edu/homes/cmh/electrobook/intro.html
+
+183.)0.0251343
+Welcome to Duke University Computer Science
+http://www.cs.duke.edu
+
+184.)0.024308
+ANN: Approximate Nearest Neighbors
+http://www.cs.umd.edu/~mount/ANN
+
+185.)0.0241345
+polymake
+http://www.math.TU-Berlin.de/diskregeom/polymake/doc
+
+186.)0.023806
+Computational Geometry
+http://www.inf.fu-berlin.de/~awolff/compgeom/pointers.html
+
+187.)0.0236911
+Jiri Matousek's home page
+http://www.ms.mff.cuni.cz/acad/kam/matousek
+
+188.)0.0236287
+Christoph M. Hoffmann
+http://www.cs.purdue.edu/people/cmh
+
+189.)0.0235811
+Convex Hull Algorithms
+http://www.cse.unsw.edu.au/~lambert/java/3d/hull.html
+
+190.)0.0234003
+Chee Yap's Homepage
+http://cs.nyu.edu/cs/faculty/yap
+
+191.)0.0233149
+Ranger - Nearest Neighbor Search in Higher Dimensions
+http://www.cs.sunysb.edu/~algorith/implement/ranger/implement.shtml
+
+192.)0.023234
+Dept. of Applied Mathematics and Statistics, University at Stony Brook
+http://www.ams.sunysb.edu
+
+193.)0.0230875
+IEEE Computer Society
+http://www.computer.org
+
+194.)0.0230583
+Arbitrary dimensional convex hull, Voronoi diagram, Delaunay triangulation
+http://www.geom.umn.edu/software/cglist/ch.html
+
+195.)0.0229731
+Imai's former Home Page
+http://www.simplex.t.u-tokyo.ac.jp/~imai
+
+196.)0.0229347
+research
+http://www.cs.rpi.edu/~flatland/compgeom.html
+
+197.)0.0229347
+Geometry
+http://robby.caltech.edu/~choset/geometry.html
+
+198.)0.0229347
+COMPUTATIONAL GEOMETRY: Related Links
+http://rabosa.inf.uji.es/direc/cgeom.html
+
+199.)0.022883
+Michael T. Goodrich
+http://www.cs.jhu.edu/~goodrich
+
+200.)0.0227006
+V-Clip Collision Detection Library
+http://www.merl.com/people/mirtich/vclip.html
+
+201.)0.0226108
+David Mount
+http://www.cs.umd.edu/~mount
+
+202.)0.0225408
+ACM Digital Library: Computational Geometry
+http://www.acm.org/pubs/contents/proceedings/compgeom
+
+203.)0.0218087
+Elsevier Science | Your gateway to science
+http://www.elsevier.nl
+
+204.)0.0216728
+Empty title field
+http://ligwww.epfl.ch/~capin/en/docs/compgeom.txt
+
+205.)0.0216683
+VoronoImage
+http://www.CS.McGill.CA/~eden/VoronoImage/WebSite.html
+
+206.)0.021666
+Polyhedral Mass Properties
+http://www.merl.com/people/mirtich/berkeleyHtml/massProps.html
+
+207.)0.021666
+Lin-Canny Closest Features Algorithm
+http://www.merl.com/people/mirtich/berkeleyHtml/collDet.html
+
+208.)0.0216322
+G.M. Ziegler
+http://www.math.tu-berlin.de/~ziegler
+
+209.)0.0214648
+Queen's Computational Geometry Lab Home Page
+http://www.qucis.queensu.ca/CGlab
+
+210.)0.0214484
+Algorithms Courses on the WWW
+http://www.cs.pitt.edu/~kirk/algorithmcourses
+
+211.)0.0212639
+Change
+http://www.cs.wustl.edu/~suri
+
+212.)0.0211413
+Minimal Enclosing Circle
+http://www.cs.brown.edu/people/tor/java/mec
+
+213.)0.0210556
+Services: Library Homepage: Catalogues (MPII)
+http://www.mpi-sb.mpg.de/guide/staff/hustadt/world/mpiref.html
+
+214.)0.0210105
+X-Windows Visibility Graph Exploring Tool
+http://cs.smith.edu/~halef/research.html
+
+215.)0.0209885
+Numerical and algebraic computation
+http://www.geom.umn.edu/software/cglist/alg.html
+
+216.)0.0209285
+Ray Tracing News Guide
+http://www.acm.org/tog/resources/RTNews/html
+
+217.)0.0208912
+Joe Mitchell's Event List
+http://www.ams.sunysb.edu/~jsbm/events.html
+
+218.)0.0203346
+PNPOLY - Point Inclusion in Polygon Test - WR Franklin
+http://www.ecse.rpi.edu/Homepages/wrf/geom/pnpoly.html
+
+219.)0.0202699
+Oxford University Press USA
+http://www.oup-usa.org
+
+220.)0.0202163
+Klamer Schutte
+http://www.ph.tn.tudelft.nl/People/klamer/Klamer.html
+
+221.)0.0201912
+MHRI WWW Error Handler
+http://www.mhri.edu.au/~pdb/geometry
+
+222.)0.0201693
+implementation
+http://www.Voronoi.com/implementation.htm
+
+223.)0.0199706
+Symposium on Computational Geometry (SCG) '97
+http://www.inria.fr/prisme/scg97
+
+224.)0.0199599
+EROS home page
+http://edcwww.cr.usgs.gov/doc/edchome/ndcdb/ndcdb.html
+
+225.)0.0199348
+Index page d'accueil federation imag
+http://www.imag.fr
+
+226.)0.0198037
+Jeff Vitter's Home Page
+http://www.cs.duke.edu/~jsv
+
+227.)0.0196498
+Theory of Computing
+http://www.informatik.hu-berlin.de/Institut/struktur/algorithmen/TOC/TOC.html
+
+228.)0.0196498
+TOC: A Scientific Perspective
+http://theory.lcs.mit.edu/~oded/toc-sp.html
+
+229.)0.019508
+Alpha Shapes: Definition and Software
+http://www.geom.umn.edu/locate/cglist/GeomDir/shapes95def
+
+230.)0.0194384
+Geometry in Action: Conferences
+http://www.ics.uci.edu/~eppstein/gina/conf.html
+
+231.)0.0194345
+Second CGC Workshop on Computational Geometry
+http://www.cs.duke.edu/CGC/workshop97.html
+
+232.)0.0193825
+Handbook of Discrete and Computational Geometry
+http://cs.smith.edu/~orourke/books/discrete.html
+
+233.)0.0193791
+Voronoi/Delaunay Applet
+http://www.cs.cornell.edu/Info/People/chew/Delaunay.html
+
+234.)0.0192462
+Polygon Boolean operations on sets of polygons
+http://www.xs4all.nl/~kholwerd/bool.html
+
+235.)0.0191461
+A compendium of NP optimization problems
+http://www.nada.kth.se/~viggo/problemlist/compendium.html
+
+236.)0.0191287
+Michael Leonov Home Page
+http://members.xoom.com/msleonov
+
+237.)0.019056
+Computational Geometry and Metrology
+http://gams.nist.gov/acmd/Reports/95/yearly/node39.html
+
+238.)0.0190519
+Research Resources
+http://www.scs.carleton.ca/~csgs/resources
+
+239.)0.0188796
+W3C HTML Validation Service
+http://validator.w3.org
+
+240.)0.0187984
+Center for Geometric Computing
+http://www.cs.duke.edu/CGC
+
+241.)0.018619
+Polygons: decomposition, point location, intersection
+http://www.geom.umn.edu/software/cglist/trap.html
+
+242.)0.0184607
+A polygon clipping algorithm
+http://members.xoom.com/msleonov/clipdoc.html
+
+243.)0.0183386
+QUB Finite Element Group
+http://sog1.me.qub.ac.uk/femgroup.html
+
+244.)0.0182176
+Stephen Vavasis
+http://www.cs.cornell.edu/Info/People/vavasis/vavasis.html
+
+245.)0.0181372
+Workshop on Geometric Computing
+http://www.inria.fr/prisme/scg97/WORKSHOP.html
+
+246.)0.0181055
+Steven Fortune
+http://cm.bell-labs.com/who/sjf
+
+247.)0.0180819
+Center for Geometric Computing at Brown
+http://www.cs.brown.edu/cgc/cgc-brown.html
+
+248.)0.0180718
+Debian GNU/Linux -- The Universal Operating System
+http://www.debian.org
+
+249.)0.0180299
+Geometric Software by Ioannis Z Emiris
+http://www.inria.fr/safir/SAM/emiris/logiciels.geo-eng.html
+
+250.)0.017988
+Polygon boolean operations
+http://members.xoom.com/msleonov/sample.html
+
+251.)0.0177796
+CS 529: Computational Geometry, Spring 1998
+http://www.cs.rutgers.edu/~dls/529.html
+
+252.)0.0175308
+Umorganisation
+http://www.cinderella.de/Info
+
+253.)0.0175076
+GÈomÈtrie Algorithmique
+http://www.inria.fr/prisme/personnel/yvinec/livre.html
+
+254.)0.0174341
+cdd and cddplus Homepage
+http://www.ifor.math.ethz.ch/staff/fukuda/cdd_home/cdd.html
+
+255.)0.0173126
+Mesh manipulation
+http://www.geom.umn.edu/software/cglist/mess.html
+
+256.)0.0172803
+Computational Geometry
+http://www.trl.ibm.co.jp/projects/s7800/Theory/geomE.htm
+
+257.)0.0172104
+Polygon Triangulation
+http://www.cs.unc.edu/~dm/CODE/GEM/chapter.html
+
+258.)0.01718
+Polygon Triangulation
+http://www.cs.unc.edu/~manocha/CODE/GEM/chapter.html
+
+259.)0.0171775
+Mesh Generation & Grid Generation on the Web
+http://www-users.informatik.rwth-aachen.de/%7Eroberts/meshgeneration.html
+
+260.)0.0171395
+Jonathan Richard Shewchuk
+http://www.cs.cmu.edu/~jrs
+
+261.)0.0169616
+How to cut a log
+http://euclid.math.fsu.edu/~bellenot/Log3D
+
+262.)0.0167445
+IJCGA Contents
+http://www.wspc.com.sg/journals/ijcga/ijcga_con.html
+
+263.)0.0165978
+Footnotes
+http://graphics.lcs.mit.edu/~seth/pubs/taskforce/techrep.foot.html#755
+
+264.)0.0165546
+Tim Rowley
+http://www.cs.brown.edu/people/tor
+
+265.)0.0164046
+Ileana Streinu
+http://cs.smith.edu/~streinu
+
+266.)0.0162027
+Home Page for Charles J. Alpert
+http://vlsicad.cs.ucla.edu/~cheese/cheese.html
+
+267.)0.0161639
+Voronoi Diagrams of 2D Shapes
+http://www.cosy.sbg.ac.at/~held/projects/voronoi_2d/voronoi.html
+
+268.)0.0161159
+Surface Simplification Using Quadric Error Metrics
+http://www.cs.cmu.edu/~garland/quadrics
+
+269.)0.0158986
+Home Page of Matthew (Matya) Katz
+http://www.cs.bgu.ac.il/~matya
+
+270.)0.0157615
+JHU Computer Science Department
+http://www.cs.jhu.edu
+
+271.)0.0157076
+DIMACS Projects: LINK
+http://dimacs.rutgers.edu/~berryj/LINK.html
+
+272.)0.0156331
+Index of /diskregeom/polymake/examples
+http://www.math.tu-berlin.de/diskregeom/polymake/examples
+
+273.)0.0156331
+Hierarchie de Delaunay
+http://www.inria.fr/prisme/logiciel/del-hierarchy
+
+274.)0.0156331
+JGV Home Page
+http://www.geom.umn.edu/java/JGV
+
+275.)0.0156331
+Empty title field
+http://www-cs-students.stanford.edu/~lizhang
+
+276.)0.0156331
+invgeo_fig
+http://www.doe-mbi.ucla.edu/people/yeates/invgeo.html
+
+277.)0.0155096
+Mathematical Resources on the Web - Main List
+http://www.math.ufl.edu/math/math-web/mathmost.html
+
+278.)0.0154984
+Klara Kedem
+http://www.cs.bgu.ac.il/~klara
+
+279.)0.0152976
+Ferran Hurtado - Personal Page
+http://www-ma2.upc.es/~hurtado/ferran.html
+
+280.)0.0151377
+Ernst Mucke's GeomDir
+http://www.geom.umn.edu/locate/cglist/GeomDir
+
+281.)0.0149792
+SCG 97 Call for videos
+http://www.inria.fr/prisme/scg97/cfv.html
+
+282.)0.0148743
+Pedro J. de Rezende's Welcome Page
+http://www.dcc.unicamp.br/~rezende
+
+283.)0.0148633
+13th Annual Symposium on Computational Geometry
+http://www.inria.fr/prisme/scg97/prog.html
+
+284.)0.0147443
+Group of Prof. Michael J&uuml;nger
+http://www.informatik.uni-koeln.de/ls_juenger/Welcome.html
+
+285.)0.0146422
+GAMS : Other Sources of Math Software Information
+http://gams.nist.gov/OtherSources.html
+
+286.)0.0146422
+efg's Graphics Page
+http://www.efg2.com/Lab/Library/Graphics.htm
+
+287.)0.0146422
+C/C++ Programming
+http://www.ddj.com/topics/cpp
+
+288.)0.0146316
+David Rappaport's Home Page
+http://www.qucis.queensu.ca/home/daver/info.html
+
+289.)0.0145299
+EHRHART POLYNOMIALS FOR PARALLEL PROGRAMS
+http://icps.u-strasbg.fr/Ehrhart/Ehrhart.html
+
+290.)0.0142156
+Guilherme A. Pinto's Welcome Page
+http://www.dcc.unicamp.br/~guialbu
+
+291.)0.0141643
+Maps On Us: A Map, Route and Yellow Pages Service
+http://www.MapsOnUs.com
+
+292.)0.0141112
+Programs to Construct Voronoi Diagrams for Line Segments.
+http://www.simplex.t.u-tokyo.ac.jp/~imai/software.html
+
+293.)0.014104
+Doran Wilde
+http://www.ee.byu.edu/~wilde
+
+294.)0.014089
+Home Page for Christos Levcopoulos
+http://www.cs.lth.se/home/Christos_Levcopoulos
+
+295.)0.0140357
+http://sum/guibasweb/ownvita/for_jc.html
+http://graphics.stanford.edu/~guibas
+
+296.)0.0133961
+Computational Geometry Applet
+http://cs.smith.edu/~orourke/books/CompGeom/CompGeom.html
+
+297.)0.0133643
+Dani Lischinski - Home Page
+http://www.cs.huji.ac.il/~danix
+
+298.)0.0133097
+Fachbereich Mathematik, TU Berlin
+http://www.math.tu-berlin.de
+
+299.)0.0131768
+Empty title field
+http://cm.bell-labs.com/cm/cs/who/clarkson/2dch.c
+
+300.)0.0131768
+Medial axis and constrained Delaunay triangulation
+http://www.geom.umn.edu/software/cglist/medial.html
+
+301.)0.0131187
+Alan Murta
+http://www.cs.man.ac.uk/aig/staff/alan/alan-murta.html
+
+302.)0.0130503
+Wm. Randolph Franklin
+http://www.ecse.rpi.edu/Homepages/wrf
+
+303.)0.0130338
+Linear programming and its relatives
+http://www.geom.umn.edu/software/cglist/lp.html
+
+304.)0.0129264
+Michael Garland's Home Page
+http://www.cs.cmu.edu/~garland
+
+305.)0.0128516
+UNC Geometry Group - Redirect
+http://www.cs.unc.edu/~manocha/I_COLLIDE.html
+
+306.)0.0127713
+Robotics
+http://www.geom.umn.edu/software/cglist/robotics.html
+
+307.)0.0126793
+Michael Murphy
+http://www.cs.umd.edu/users/murphy
+
+308.)0.012646
+Index of /~stolfi/EXPORT/software/c/libaa
+http://www.dcc.unicamp.br/~stolfi/EXPORT/software/c/libaa
+
+309.)0.012646
+Arbre de Delaunay
+http://www.inria.fr/prisme/logiciel/del-tree.html
+
+310.)0.012646
+Vincent LOECHNER
+http://icps.u-strasbg.fr/people/vin100.html
+
+311.)0.012646
+Empty title field
+http://cm.bell-labs.com/cm/cs/who/clarkson/dets.html
+
+312.)0.012646
+link to Todd Yeates Home Page at UCLA-DOE Lab
+http://www.doe-mbi.ucla.edu/people/yeates
+
+313.)0.012646
+Strange Unfoldings of Convex Polytopes
+http://www.ifor.math.ethz.ch/ifor/staff/fukuda/unfold_home/unfold_open.html
+
+314.)0.012646
+Info about Jesus Antonio de Loera
+http://www.geom.umn.edu/about/people/home/deloera.html
+
+315.)0.012646
+Craig Silverstein's Home Page
+http://www-cs-students.stanford.edu/~csilvers
+
+316.)0.012646
+Ernst Mucke's GeomDir
+http://www.geom.umn.edu/locate/cglist/GeomDir/#CH
+
+317.)0.012646
+Index of /~stolfi/EXPORT/software/c/libia
+http://www.dcc.unicamp.br/~stolfi/EXPORT/software/c/libia
+
+318.)0.012646
+Philippe CLAUSS
+http://icps.u-strasbg.fr/~clauss
+
+319.)0.012646
+Mariette Yvinec
+http://www.inria.fr/prisme/personnel/yvinec/yvinec.html
+
+320.)0.012646
+PRISME
+http://www.inria.fr/prisme
+
+321.)0.012646
+Empty title field
+http://www.mtholyoke.edu/~jgjetche
+
+322.)0.012646
+Benno Bueler's Home Page
+http://www.ifor.math.ethz.ch/staff/bueeler/bueeler.html
+
+323.)0.012646
+Empty title field
+http://cm.bell-labs.com/cm/cs/who/clarkson/lp2.html
+
+324.)0.012646
+Dr. Andreas L&ouml;bel
+http://www.zib.de/personal/personal.pl?name=loebel
+
+325.)0.012646
+Empty title field
+http://cm.bell-labs.com/cm/cs/who/clarkson/center.html
+
+326.)0.012646
+Index of /~stolfi/EXPORT/software/c/libquad
+http://www.dcc.unicamp.br/~stolfi/EXPORT/software/c/libquad
+
+327.)0.012646
+Low dimensional Voronoi diagram, Delaunay triangulation
+http://www.geom.umn.edu/software/cglist/lowdvod.html
+
+328.)0.012646
+Publications of Thomas Auer
+http://www.cosy.sbg.ac.at/~tom/publ.html
+
+329.)0.012646
+Gino van den Bergen
+http://www.win.tue.nl/cs/tt/gino
+
+330.)0.012646
+A Simple Morph
+http://www.cs.uleth.ca/students/pinto
+
+331.)0.012646
+Ben Trumbore
+http://www.graphics.cornell.edu/~wbt
+
+332.)0.012646
+Index of /~stolfi/EXPORT/software/c/libdelaunay
+http://www.dcc.unicamp.br/~stolfi/EXPORT/software/c/libdelaunay
+
+333.)0.012646
+Exaflop Document
+http://www.exaflop.org/docs/cgafaq/cga2.html#Subject 
+
+334.)0.012646
+Ray Tracing News, Volume 5, Number 3
+http://www.acm.org/tog/resources/RTNews/html/rtnv5n3.html
+
+335.)0.012646
+Matej's Home Page
+http://rcum.uni-mb.si/~uel017r2a
+
+336.)0.012646
+Ernst Mucke's GeomDir
+http://www.geom.umn.edu/locate/cglist/GeomDir/#DETRI
+
+337.)0.012646
+UNC Geometry Group - Redirect
+http://www.cs.unc.edu/~geom/code.html
+
+338.)0.012646
+Homepage of klaas.holwerda 1.1
+http://www.xs4all.nl/~kholwerd
+
+339.)0.012646
+Stephen Cameron
+http://www.comlab.ox.ac.uk/oucl/users/stephen.cameron
+
+340.)0.012646
+Luis Lozada's Welcome Page
+http://www.dcc.unicamp.br/~lplozada
+
+341.)0.012646
+Geometric Datasets
+http://graphics.lcs.mit.edu/~seth/datasets/datasets.html
+
+342.)0.012646
+Solid modeling
+http://www.geom.umn.edu/software/cglist/csg.html
+
+343.)0.012646
+Triangle:  Research credit, references, and online papers
+http://www.cs.cmu.edu/~quake/triangle.research.html
+
+344.)0.012646
+Mesh Generation & Grid Generation on the Web
+http://www-users.informatik.rwth-aachen.de/~roberts/meshgeneration.html#Software
+
+345.)0.012646
+A survey of meshing programs
+http://userpage.fu-berlin.de/~wwwgravi/gravi_ag/mitarbeiter/chrisK/austin_new
+
+346.)0.012646
+Mesh generation
+http://www.geom.umn.edu/software/cglist/mesh.html
+
+347.)0.012646
+Atul's Home Page
+http://reality.sgi.com/atul
+
+348.)0.012646
+Computing Common Tangents
+http://www.cs.ubc.ca/spider/snoeyink/nosep.html
+
+349.)0.012646
+Kenneth R. Sloan
+http://www.cis.uab.edu/info/faculty/sloan
+
+350.)0.012646
+Thomas Auer
+http://www.cosy.sbg.ac.at/~tom/tom.html
+
+351.)0.012646
+Pocket Machining (Offset-Based)
+http://www.cosy.sbg.ac.at/~held/projects/pocket_off/pocket.html
+
+352.)0.012646
+Candido F. Xavier de Mendon&ccedil;a's Welcome Page
+http://www.dcc.unicamp.br/~xavier
+
+353.)0.012646
+Visualization
+http://www.geom.umn.edu/software/cglist/viz.html
+
+354.)0.012646
+Interactive visualizations
+http://www.geom.umn.edu/software/cglist/demos.html
+
+355.)0.012646
+AT&T Labs Research - Our People
+http://www.research.att.com/info/ek
+
+356.)0.012646
+AT&T Labs Research - Our People
+http://www.research.att.com/info/north
+
+357.)0.012646
+Dr. Robert L. Ogniewicz
+http://hrl.harvard.edu/people/postdocs/rlo/rlo.html
+
+358.)0.012646
+VoronoImage Picture Gallery
+http://www.CS.McGill.CA/~eden/VoronoImage/Gallery.html
+
+359.)0.012646
+Demo-Version von Cinderellas CafÈ
+http://www.cinderella.de/Demo/Standalone/cindy.html
+
+360.)0.012646
+Gordon Kindlmann
+http://www.graphics.cornell.edu/~gordon
+
+361.)0.012646
+Will Evans
+http://www.cs.arizona.edu/people/will
+
+362.)0.012646
+Gregg M. Townsend
+http://www.cs.arizona.edu/people/gmt
+
+363.)0.012646
+Triangulation
+http://www.geom.umn.edu/software/cglist/tri.html
+
+364.)0.0125337
+voronoi
+http://www.netlib.org/voronoi
+
+365.)0.0124542
+Alon Efrat
+http://graphics.stanford.edu/~alon
+
+366.)0.012301
+Richard  Pollack
+http://www.math.nyu.edu/faculty/pollack
+
+367.)0.0121221
+Princeton University
+http://www.princeton.edu
+
+368.)0.0120862
+Software
+http://siesta.cs.wustl.edu/~suri/cs506/software.html
+
+369.)0.0118837
+Dinesh Manocha
+http://www.cs.unc.edu/~manocha
+
+370.)0.0118557
+Army Research Office
+http://www.aro.ncren.net
+
+371.)0.0115216
+Canada Institute for Scientific and Technical Information (CISTI) - Library
+http://www.cisti.nrc.ca/cisti/docdel/docdel.html
+
+372.)0.0111451
+Geometry and the Imagination in Minneapolis
+http://www.geom.umn.edu/docs/doyle/mpls/handouts/handouts.html
+
+373.)0.0111283
+Point/Line Duality
+http://www.cs.dartmouth.edu/~henle/Duality/Duality.html
+
+374.)0.0110585
+Home Page of Joachim Gudmundsson
+http://www.cs.lth.se/home/Joakim_Gudmundsson
+
+375.)0.0110585
+Computational Geometry Stuff
+http://nobi.inf.ethz.ch/nora/cg
+
+376.)0.0110181
+EURO-CG2000
+http://www.cs.bgu.ac.il/~cg2000
+
+377.)0.0108985
+1995 ACM Symposium on Computational Geometry
+http://www.cs.ubc.ca/nest/imager/contributions/snoeyink/acm-scg.html
+
+378.)0.0108617
+Joseph O'Rourke
+http://cs.smith.edu/~orourke/Welcome.html
+
+379.)0.0107796
+The CGAL home page
+http://www.cgal.org
+
+380.)0.0107604
+Fred Henle's Home Page
+http://www.cs.dartmouth.edu/~henle
+
+381.)0.0107292
+Hugues Hoppe's home page
+http://www.research.microsoft.com/~hoppe
+
+382.)0.0106992
+CIS 677: Computational Geometry
+http://cm.bell-labs.com/who/clarkson/cis677
+
+383.)0.0105301
+LES HOTELS
+http://www.inria.fr/prisme/scg97/HotelsAcm2.html
+
+384.)0.0103807
+Journals
+http://www.math.psu.edu/MathLists/Journals.html
+
+385.)0.0103542
+ECE Home Page
+http://www.ece.nwu.edu
+
+386.)0.0103542
+Zoltan Furedi
+http://www.math.uiuc.edu/~z-furedi
+
+387.)0.0103271
+Dept of Mathematics, Texas A&amp;M University
+http://www.math.tamu.edu
+
+388.)0.0103271
+Pawel Winter
+http://www.diku.dk/~pawel
+
+389.)0.0100614
+Fifth MSI-Stony Brook Workshop on Computational Geometry
+http://www.ams.sunysb.edu/~held/proc_usb_comp_geo-95.html
+
+390.)0.0100115
+Ravi Janardan
+http://www.cs.umn.edu/faculty/janardan.html
+
+391.)0.00982622
+11th Canadian Conference on Computational Geometry
+http://www.cs.ubc.ca/conferences/CCCG
+
+392.)0.00981254
+Henk Meijer's Home Page
+http://www.qucis.queensu.ca/home/henk/info.html
+
+393.)0.00957738
+Sun Microsystems
+http://www.sun.com
+
+394.)0.00950504
+twincities.sidewalk.com > Home
+http://twincities.sidewalk.com
+
+395.)0.00948013
+Greater Minneapolis Convention &amp; Visitors Association
+http://www.minneapolis.org
+
+396.)0.00940559
+Bernd G‰rtner - Smallest Enclosing Ball Code
+http://www.inf.ethz.ch//personal/gaertner/miniball.html
+
+397.)0.0091522
+Open Problems Presented at SCG'98
+http://www.cs.duke.edu/~pankaj/scg98-openprobs/open-probs.html
+
+398.)0.00902663
+SIGACT News
+http://sigact.acm.org/sigactnews
+
+399.)0.00848814
+Gill Barequet's home page
+http://www.cs.jhu.edu/~barequet
+
+400.)0.0082652
+Paul Chew
+http://www.cs.cornell.edu/Info/People/chew/chew.html
+
+401.)0.00807139
+People in Geometric Computing...
+http://www.geom.umn.edu/~mucke/GeomDir/people.html
+
+402.)0.00802917
+LEDA - A Library of Efficient Data Types and Algorithms
+http://www.cs.sunysb.edu/~algorith/implement/LEDA/implement.shtml
+
+403.)0.00792664
+Computer Graphics and Computational Geometry
+http://www.sys.uea.ac.uk/Research/ResGroups/CGP
+
+404.)0.00787668
+Computer Science Journals
+http://www.informatik.uni-trier.de/~ley/db/journals
+
+405.)0.00780083
+Geometry Research Groups
+http://www.ics.uci.edu/~eppstein/gina/groups.html
+
+406.)0.00779983
+Ayellet Tal: homepage
+http://www.ee.technion.ac.il/~ayellet
+
+407.)0.00775283
+Imager Computer Graphics Laboratory
+http://www.cs.ubc.ca/nest/imager/imager.html
+
+408.)0.00748218
+Mesh Generation
+http://www.cs.cornell.edu/Info/People/chew/mesh.html
+
+409.)0.00743412
+University of California, Irvine
+http://www.uci.edu
+
+410.)0.00740692
+University of Minnesota - Systemwide Homepage
+http://www.umn.edu
+
+411.)0.00730094
+JCDCG98
+http://ranran.cis.ibaraki.ac.jp/jcdcg98/jcdcg98.html
+
+412.)0.00706818
+WebCT.com
+http://www.webct.com
+
+413.)0.00699336
+Visualizing Geometric Algorithms
+http://www.cs.princeton.edu/~dpd/Papers/SDCR.html
+
+414.)0.00673342
+Computational Geometry Journals
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/journals.html#geom
+
+415.)0.006701
+Symmetry and the Shape of Space
+http://comp.uark.edu/~cgstraus/symmetry.unit
+
+416.)0.00660174
+Empty title field
+http://isgwww.cs.uni-magdeburg.de/~michiel
+
+417.)0.0065628
+PVM: Parallel Virtual Machine
+http://www.epm.ornl.gov/pvm/pvm_home.html
+
+418.)0.00654828
+Computational Geometry
+http://www.elsevier.com/locate/comgeo
+
+419.)0.00643326
+MHRI WWW Error Handler
+http://www.mhri.edu.au/~pdb
+
+420.)0.00639467
+Available_Software
+http://www.llnl.gov/graphics/software.html
+
+421.)0.00630635
+Gershon Elber's Home Page
+http://www.cs.technion.ac.il/~gershon
+
+422.)0.00626102
+Computational Geometry
+http://www.evergreen.edu/user/CISE/CG.html
+
+423.)0.00590972
+Home Page Therese Biedl
+http://magnolia.math.uwaterloo.ca/~biedl
+
+424.)0.00583199
+Oded Goldreich : HomePage (at MIT)
+http://theory.lcs.mit.edu/~oded
+
+425.)0.00574741
+Jack  Snoeyink
+http://www.cs.unc.edu/~snoeyink
+
+426.)0.00565924
+Computational Geometry Algorithms Library
+http://www.risc.uni-linz.ac.at/projects/basic/cgal
+
+427.)0.00558709
+CG Tribune WWW sites
+http://www-sop.inria.fr/prisme/personnel/bronnimann/cgt/WWW.html
+
+428.)0.00557156
+Department of Computer Science: Faculty
+http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_FACULTY/FAC_HTMLS/steng.html
+
+429.)0.00557156
+Leo Joskowicz: Home Page.
+http://www.cs.huji.ac.il/~josko
+
+430.)0.00557156
+Janos Pach
+http://www.math.nyu.edu/research/pach
+
+431.)0.00557156
+Empty title field
+http://www.cc.gatech.edu/gvu/people/jarek.rossignac
+
+432.)0.00557156
+Welcome to Lucent
+http://www.lucent.com
+
+433.)0.00557156
+Ken Goldberg's home page
+http://www.ieor.berkeley.edu/~goldberg/from-cs.html
+
+434.)0.00557156
+Welcome to Mall of America
+http://www.mallofamerica.com
+
+435.)0.00557156
+The City of Saint Paul, Minnesota
+http://www.stpaul.gov
+
+436.)0.00557156
+CNN - Travel: City Guides - MINNEAPOLIS
+http://www.cnn.com/TRAVEL/CITY.GUIDES/WTR/north.america.profiles/nap.minneapolis.html
+
+437.)0.00557156
+This page has moved
+http://www1.umn.edu/tc/QTVRmovies
+
+438.)0.00557156
+CNN.com - Weather - Minneapolis, MN
+http://cnn.com/WEATHER/html/MinneapolisMN.html
+
+439.)0.00557156
+Maps On Us: Route Planner
+http://www.MapsOnUs.com/bin/maps-planroute/usr=~new?RouteType=h&AddPoi=mmn2:50818&AddMarker=Marker=END%09LL=-93.22967%2c44.97370%09Name=End+Point+%28615+Washington+Ave+Se%2c+Minneapolis%2c+MN%29&SelectItems=Poi.mmn2:50818+END&SessionSrc=SendMail.r
+
+440.)0.00539736
+Home Page for Diane Souvaine
+http://www.cs.rutgers.edu/~dls
+
+441.)0.00538389
+Robert Schneiders
+http://www-users.informatik.rwth-aachen.de/~roberts
+
+442.)0.00519443
+The Johns Hopkins University
+http://www.jhu.edu
+
+443.)0.00510046
+AMS Bookstore
+http://www.ams.org/bookstore
+
+444.)0.00487828
+Annotated Scientific Visualization Web Site Bibliography
+http://science.nas.nasa.gov/Groups/VisTech/visWeblets.html
+
+445.)0.00478653
+Azriel Rosenfeld
+http://www.cfar.umd.edu/~ar
+
+446.)0.00478653
+Dick Karp
+http://www.cs.washington.edu/people/faculty/karp.html
+
+447.)0.00478653
+Empty title field
+http://www.dms.auburn.edu/~rodgec1/cadcom
+
+448.)0.00478653
+Oded Goldreich: Statement for SDCR
+http://theory.lcs.mit.edu/~oded/sdcr.html
+
+449.)0.00478653
+Empty title field
+http://www.geom.umn.edu/~mucke
+
+450.)0.00478653
+Resources for Computational Geometers
+http://graphics.lcs.mit.edu/~seth/pubs/taskforce/section3_13.html
+
+451.)0.00478653
+No Title
+http://www.dms.auburn.edu/~rodgec1/cadcom/describe/describe.html
+
+452.)0.00478653
+CADCOM-Applications
+http://www.dms.auburn.edu/~rodgec1/cadcom/applications
+
+453.)0.00470493
+David Avis' home page
+http://www.cs.mcgill.ca/~avis
+
+454.)0.00463859
+Journal of Universal Computer Science
+http://www.iicm.edu/jucs%3Bsk%3DDAF363D8
+
+455.)0.00458271
+Digital Systems Research Center: Report 101a
+http://gatekeeper.dec.com/pub/DEC/SRC/research-reports/abstracts/src-rr-101a.html
+
+456.)0.00454973
+The FreeBSD Project
+http://www.freebsd.org
+
+457.)0.00453614
+Notice About MathWorld
+http://mathworld.wolfram.com/topics/ComputationalGeometry.html
+
+458.)0.00452186
+Christoph M. Hoffmann
+http://www.cs.purdue.edu/faculty/cmh.html
+
+459.)0.00428275
+Otfried Cheong
+http://www.cs.ust.hk/faculty/otfried/Ipe
+
+460.)0.00424945
+Math Forum: Math Resources by Subject
+http://forum.swarthmore.edu/math.topics.html
+
+461.)0.00424659
+Sariel OLD Home-Page
+http://www.cs.duke.edu/~sariel
+
+462.)0.00413958
+Delaunay Triangulations From Hulls
+http://www.cs.dartmouth.edu/~gessel/Java/CGApp.html
+
+463.)0.00413111
+Computational Geometry Publications
+http://www.cs.ucsb.edu/~teo/publications/areas.cg.html
+
+464.)0.00412863
+Freie Universit&auml;t Berlin
+http://www.fu-berlin.de
+
+465.)0.00411254
+CGC '97: Program and Abstracts
+http://www.cs.duke.edu/CGC/workshop97/schedule.html
+
+466.)0.00409489
+Empty title field
+http://www.math.utah.edu/~alfeld/MDS
+
+467.)0.00409489
+FernUni Pr. Inf. VI: VoroGlide, interactive Voronoi diagrams
+http://wwwpi6.fernuni-hagen.de/Geometrie-Labor/VoroGlide/index.html.en
+
+468.)0.0040819
+Bibliography
+http://www.dmi.ens.fr/users/pocchiol/book.html
+
+469.)0.00403643
+Papers - Sariel Har-Peled
+http://www.math.tau.ac.il/~sariel/papers.html
+
+470.)0.00355991
+University of Minnesota -- Department of Computer Science and Engineering
+http://www.cs.umn.edu
+
+471.)0.00355664
+Computational Geometry Upcoming Events
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/events.html
+
+472.)0.00353823
+Adobe Acrobat Reader
+http://www.adobe.com/prodindex/acrobat/readstep.html
+
+473.)0.00351372
+Empty title field
+http://www-graphics.stanford.edu/papers/webviz
+
+474.)0.00351372
+QMG project: The finite element package
+http://simon.cs.cornell.edu/home/vavasis/qmg1.0/fe.html
+
+475.)0.00351372
+GeoMAMOS Project Home Page / 1994 GeoMAMOS Project, Northwestern University
+http://www.ece.nwu.edu/~theory/geomamos.html
+
+476.)0.00346986
+Kaspar Fischer
+http://n.ethz.ch/student/fischerk
+
+477.)0.00338983
+Videos SoCG97
+http://www.inria.fr/prisme/scg97/video_accepted.html
+
+478.)0.003362
+Vera Sacristan - Personal Page
+http://www-ma2.upc.es/~vera/vera.html
+
+479.)0.00327393
+SCG97-list of attendees
+http://www.inria.fr/prisme/scg97/attendees.html
+
+480.)0.00326397
+Sylvain Lazard
+http://www.loria.fr/~lazard
+
+481.)0.00326384
+RIOT -- The Convex Hull Problem
+http://riot.ieor.berkeley.edu/riot/Applications/ConvexHull
+
+482.)0.00318655
+CSS button
+http://www.w3.org/Style/CSS/Buttons
+
+483.)0.00318655
+W3C CSS Validation Service
+http://jigsaw.w3.org/css-validator
+
+484.)0.00303341
+Mocha Prototype
+http://www.cs.brown.edu/cgc//demos/Mocha.html
+
+485.)0.00302905
+CNPq
+http://www.cnpq.br
+
+486.)0.00298709
+MIT 6.838/4.214 - Software Resources
+http://graphics.lcs.mit.edu/classes/6.838/S98/meetings/resources.html
+
+487.)0.00298709
+GI-Fachgruppe&nbsp;0.1.2, Konferenzen, Tagungen, Workshops
+http://wwwpi6.fernuni-hagen.de/GI/konferenzen
+
+488.)0.00294535
+Erik Demaine
+http://daisy.uwaterloo.ca/~eddemain
+
+489.)0.00290731
+Joe Mitchell's Hotlist
+http://www.ams.sunysb.edu/~jsbm/hotlist.html
+
+490.)0.00288715
+Volume 6  "Discrete and Computational Geometry: Papers from the DIMACS Special Year", Goodman, Pollack & Steiger, Eds.
+http://dimacs.rutgers.edu/Volumes/Vol06.html
+
+491.)0.00288095
+The OpenMath Society:  OpenMath
+http://klein.math.fsu.edu
+
+492.)0.00270383
+FAPESP - FUNDA«√O DE AMPARO ¿ PESQUISA DO ESTADO DE S√O PAULO
+http://www.fapesp.br
+
+493.)0.00258946
+Martin's Useful Links
+http://www.cosy.sbg.ac.at/~held/links.html
+
+494.)0.00256406
+Computational Geometry Bibliographies
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/biblios.html
+
+495.)0.00249169
+Geometry
+http://voronoi.sbp.ri.cmu.edu/~choset/geometry.html
+
+496.)0.00246403
+Empty title field
+http://www.disi.unige.it/person/MagilloP/SPACENET/genova.bib
+
+497.)0.0024515
+Duke University
+http://www.duke.edu
+
+498.)0.0023977
+Computatoional Geometry
+http://www.math.tau.ac.il/~sariel/bookmarks/cg_links.html
+
+499.)0.00236958
+Computational Geometry Stuff
+http://www.cs.duke.edu/~sariel/CG/CG.html
+
+500.)0.0023286
+Daniel M. Abrahams-Gessel
+http://www.cs.dartmouth.edu/~gessel
+
+501.)0.00232243
+Symposium on Computational Geometry (SCG)
+http://www.inria.fr/prisme/scg97/previous_scg.html
+
+502.)0.00232058
+Lars Arge
+http://www.cs.duke.edu/~large
+
+503.)0.00229487
+POSTECH Virtual Reality Laboratory
+http://graphics.postech.ac.kr/otfried/html/geombib.html
+
+504.)0.00212779
+Home page of Boris Aronov
+http://cis.poly.edu/~aronov
+
+505.)0.00209829
+This page has moved.
+http://www.geom.umn.edu/~burgiel
+
+506.)0.00209829
+The Good Doctor Bellenot
+http://euclid.math.fsu.edu/~bellenot
+
+507.)0.00208967
+Geometry Links
+http://graphics.stanford.edu/courses/cs368/glinks.html
+
+508.)0.00204494
+Welcome to NSERC
+http://www.nserc.ca
+
+509.)0.00199558
+Frederic Fol Leymarie's personal HomePage: TopNode
+http://www.lems.brown.edu/~leymarie
+
+510.)0.00197704
+Paul J. Tanenbaum's home page
+http://ftp.arl.mil/~pjt
+
+511.)0.00184019
+Alf-Christian Achilles
+http://liinwww.ira.uka.de/~achilles
+
+512.)0.00181473
+MathSource 2.2: Computational Geometry
+http://www.mathsource.com/Content22/Enhancements/DiscreteMath/0200-181
+
+513.)0.00181473
+Computational Geometry Books
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/books.html
+
+514.)0.00177383
+Tolga Capin
+http://ligwww.epfl.ch/~capin
+
+515.)0.0017063
+Geometry in Action: Metrology
+http://www.ics.uci.edu/~eppstein/gina/metro.html
+
+516.)0.00169546
+Delaunay Triangulation
+http://www.cs.brown.edu/courses/cs252/proj/src/Spr96-97/chl/DelTri.html
+
+517.)0.00169546
+DEMO PROGRAM FOR DELAUNAY TRIANGULATION AND VORONOI DIAGRAM
+http://www.cs.brown.edu/courses/cs252/proj/src/Spr96-97/cl/delaunay.html
+
+518.)0.00165042
+Bibliographische Datenbank LEABIB
+http://wwwmayr.informatik.tu-muenchen.de/leabib/bib.html
+
+519.)0.00157431
+Map of LTH's campus
+http://www.lth.se/lthmap/lthmap_e.html
+
+520.)0.00157431
+Map of Lund, Sweden
+http://www.lth.se/lthmap/lundmapc.html
+
+521.)0.00156606
+Welcome, Lunds universitet
+http://www.lu.se/lu/lu-welcomeE.html
+
+522.)0.00150682
+World Scientific Online Journals
+http://www.wspc.com.sg/journals/journals.html
+
+523.)0.00146516
+JackMOO Client
+http://www.cis.upenn.edu/~hsun/Java/cgalg.html
+
+524.)0.0013957
+Home Page of Dimitris N. Metaxas
+http://www.cis.upenn.edu/~dnm
+
+525.)0.00139143
+Yahoo! Search Results for computational geometry
+http://search.yahoo.com/search?p=computational+geometry&S=1
+
+526.)0.00126048
+Timothy M. Chan
+http://www.cs.uwaterloo.ca/~tmchan
+
+527.)0.00124261
+Empty title field
+http://mail.yahoo.com
+
+528.)0.00116986
+CG '97 -- Workshop Program
+http://www-info1.informatik.uni-wuerzburg.de/CG97/prg.html
+
+529.)0.00115606
+Elsevier Science | Your gateway to science
+http://www.elsevier.com
+
+530.)0.00110276
+The Staff at DIMACS Center
+http://dimacs.rutgers.edu/People/Staff.html
+
+531.)0.00110276
+DIMACS 1989-90 Special Year on Discrete and Computational Geometry
+http://dimacs.rutgers.edu/SpecialYears/1989_1990
+
+532.)0.00107903
+Queen's University &#150; Kingston, Ontario, Canada
+http://info.queensu.ca
+
+533.)0.00107668
+Jonathan Richard Shewchuk
+http://www.cs.berkeley.edu/~jrs
+
+534.)0.00105182
+SRC - Research Reports
+http://www.research.digital.com/SRC/publications/src-rr.html
+
+535.)0.00103775
+Bibliography on parallel computational geometry
+http://liinwww.ira.uka.de/bibliography/Parallel/par.comp.geom.html
+
+536.)0.00103775
+Algorithms Animations
+http://www.csee.umbc.edu/~germida/algorithm_links.html
+
+537.)0.00103775
+Bookmarks for Marco Luebbecke
+http://www.math.nat.tu-bs.de/~marco/bw/ger/bookmarks.html
+
+538.)0.000968258
+Bookmarks for Ileana Streinu
+http://cs.smith.edu/~streinu/bookmarks.html
+
+539.)0.000835375
+Design Research
+http://www.cad.strath.ac.uk/EIG/DesignResearch.html
+
+540.)0.000817936
+The Computer Science Department of Genoa
+http://www.disi.unige.it
+
+541.)0.000753929
+CGAL at PRISME - INRIA
+http://www-sop.inria.fr/prisme/CGAL/CGAL.html
+
+542.)0.000746058
+Please update your link to the Institute of Applied Mathematics
+http://www.iam.ubc.ca/home
+
+543.)0.000739872
+Johannes Kepler Universit&auml;t Linz
+http://www.uni-linz.ac.at
+
+544.)0.000728046
+MS8 Computational Geometry Approaches to Mesh Generation
+http://www.siam.org/meetings/archives/an97/ms8.htm
+
+545.)0.000671385
+Discrete & Computational Geometry 21: 217-231 (1999)
+http://link.springer-ny.com/link/service/journals/00454/bibs/21n2p217.html
+
+546.)0.000670329
+1995 ACM Symp Comp Geom Registration Info
+http://www.cs.ubc.ca/spider/snoeyink/regform.html
+
+547.)0.000565528
+Tutorial on Graph Drawing
+http://www.cs.brown.edu/people/rt/gd-tutorial.html
+
+548.)0.000562961
+Bibliography on computational geometry and volumetric visualization
+http://liinwww.ira.uka.de/bibliography/Graphics/genova.html
+
+549.)0.000511608
+Alejo Hausner
+http://www.cs.princeton.edu/~ah
+
+550.)0.000491222
+PVM: Parallel Virtual Machine: A Users' Guide and Tutorial for Networked Parallel Computing
+http://www.netlib.org/pvm3/book/pvm-book.html
+
+551.)0.000456152
+Department of Computer Science, RWTH Aachen, Germany
+http://www.informatik.rwth-aachen.de/informatik.eng.html
+
+552.)0.000447883
+Sariel's Home Page
+http://www.math.tau.ac.il/~sariel
+
+553.)0.00044327
+Dr. Sudeep Sarkar, Associate Professor
+http://marathon.csee.usf.edu/~sarkar/sarkar.html
+
+554.)0.000431073
+Conferences
+http://www.cs.lth.se/home/Joakim_Gudmundsson/Indexkatalog/Conf.html
+
+555.)0.000394879
+University of Oxford Home Page
+http://www.ox.ac.uk
+
+556.)0.000369217
+Joe Ganley's Publications
+http://ganley.org/pubs.html
+
+557.)0.000369217
+Publications (Lutz Kettner)
+http://www.inf.ethz.ch/personal/kettner/pub
+
+558.)0.000353544
+TU Berlin - Willkommen!
+http://www.tu-berlin.de
+
+559.)0.000337311
+Prentice Hall Canada
+http://www.phcanada.com
+
+560.)0.000313141
+University of Notre Dame
+http://www.nd.edu
+
+561.)0.000287098
+Doubletree online reservations for leisure and business travel at leading resort and business hotels.
+http://www.doubletreehotels.com/DoubleT/Hotel41/55/55Main.htm
+
+562.)0.000282043
+Computational  Geometry  and  Algorithm  Visualization  Laboratory
+http://www.ece.nwu.edu/~theory
+
+563.)0.000280361
+A.E. Fabris
+http://www.ime.usp.br/~aef
+
+564.)0.000276744
+Jarvis convex hull demo
+http://www.cs.ubc.ca/spider/snoeyink/demos/ch/Jarvis.html
+
+565.)0.000276744
+ChanDC convex hull demo
+http://www.cs.ubc.ca/spider/snoeyink/demos/ch/ChanDC.html
+
+566.)0.000276744
+Touristonline.dk
+http://130.227.115.17
+
+567.)0.000276744
+Implementation of kd-trees
+http://www.gaardbo.dk/compgeo/opg4/kdtree.html
+
+568.)0.000276744
+GrahamYao convex hull demo
+http://www.cs.ubc.ca/spider/snoeyink/demos/ch/GrahamYao.html
+
+569.)0.000276744
+MWT Demo
+http://www.cs.ubc.ca/spider/snoeyink/demos/convdecomp/MWTDemo.html
+
+570.)0.000276744
+Quickhull convex hull demo
+http://www.cs.ubc.ca/spider/snoeyink/demos/ch/Quickhull.html
+
+571.)0.000274544
+Misc
+http://www.math.tau.ac.il/~sariel/misc.html
+
+572.)0.000274544
+Bookmarks
+http://www.math.tau.ac.il/~sariel/bookmarks/bookmarks.html
+
+573.)0.000274544
+Search the Net
+http://www.math.tau.ac.il/~sariel/search.html
+
+574.)0.000274544
+Information About Courses
+http://www.math.tau.ac.il/~sariel/TA.html
+
+575.)0.000230782
+comp.graphics.rendering.raytracing FAQ (part 2/2)
+http://www.cis.ohio-state.edu/hypertext/faq/usenet/graphics/raytrace-faq/part2/faq.html
+
+576.)0.000230782
+comp.graphics.rendering.raytracing FAQ (part 1/2)
+http://www.cis.ohio-state.edu/hypertext/faq/usenet/graphics/raytrace-faq/part1/faq.html
+
+577.)0.000230304
+Rephael Wenger's Home Page
+http://www.cis.ohio-state.edu/~wenger
+
+578.)0.000230304
+Tim Lambert's Home Page
+http://www.cse.unsw.edu.au/~lambert
+
+579.)0.000230304
+Delaunay Triangulation Algorithms
+http://www.cse.unsw.edu.au/~lambert/java/3d/delaunay.html
+
+580.)0.000230304
+Convex Hulls
+http://www.cs.princeton.edu/~ah/alg_anim/gawain-4.0/ConvexHull.html
+
+581.)0.000230304
+Binay Bhattacharya
+http://www.cs.sfu.ca/people/Faculty/Bhattacharya
+
+582.)0.000230304
+Home page of Sandeep Sen
+http://www.cse.iitd.ernet.in/~ssen
+
+583.)0.000230304
+Afra's HomePage
+http://www-cs-students.stanford.edu/~afra
+
+584.)0.00023024
+RWTH-Web
+http://www.rwth-aachen.de
+
+585.)0.000165739
+Computing Cuttings in Practice
+http://www.math.tau.ac.il/~sariel/papers/cuttings.html
+
+586.)0.000139253
+Michael Ley
+http://www.informatik.uni-trier.de/~ley/addr.html
+
+587.)0.000116701
+Northwestern University
+http://nuinfo.nwu.edu
+
+588.)0.000115783
+McCormick School of Engineering and Applied Science -- Northwestern University -- Home Page
+http://www.tech.nwu.edu
+
+589.)9.20863e-005
+Elsevier Science | Your gateway to science
+http://www.elsevier.co.jp
+
+590.)9.20863e-005
+Computational Geometry
+http://www.elsevier.nl/locate/issn/09257721
+
+591.)9.20863e-005
+Elsevier Science: Alerting Services
+http://www.elsevier.co.jp/locate/estoc/09257721
+
+592.)9.20863e-005
+Computational Geometry
+http://www.elsevier.com/locate/issn/09257721
+
+593.)9.20863e-005
+Elsevier Science: Alerting Services
+http://www.elsevier.com/locate/estoc/09257721
+
+594.)9.20863e-005
+Elsevier Science: Alerting Services
+http://www.elsevier.nl/locate/estoc/09257721
+
+595.)9.20863e-005
+Computational Geometry
+http://www.elsevier.co.jp/locate/issn/09257721
+
+596.)8.09829e-005
+ACM Digital Library: Approximate shortest paths and geodesic diameters on convex polytopes in three dimensions
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p359-har-peled
+
+597.)8.09829e-005
+ACM Digital Library: On levels in arrangements of lines, segments, planes, and triangles
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p30-agarwal
+
+598.)8.09829e-005
+ACM Digital Library: Construction of 1-d lower envelopes and applications
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p57-ramos
+
+599.)8.09829e-005
+ACM Digital Library: Choosing corners of rectangles for mapped meshing
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p87-mitchell
+
+600.)8.09829e-005
+ACM Digital Library: Some PL functions on surfaces are not height functions
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p113-tarasov
+
+601.)8.09829e-005
+ACM Digital Library: Fitting a set of points by a circle
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p139-garcia-lopez
+
+602.)8.09829e-005
+ACM Digital Library: Efficient exact evaluation of signs of determinants
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p166-bronnimann
+
+603.)8.09829e-005
+ACM Digital Library: Minimum strictly convex quadrangulations of convex polygons
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p193-muller-hannemann
+
+604.)8.09829e-005
+ACM Digital Library: Separating an object from its cast
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p221-ahn
+
+605.)8.09829e-005
+ACM Digital Library: <italic>r</italic>-regular shape reconstruction from unorganized points
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p248-attali
+
+606.)8.09829e-005
+ACM Digital Library: Approximating weighted shortest paths on polyhedral surfaces
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p274-lanthier
+
+607.)8.09829e-005
+ACM Digital Library: Space-time tradeoffs for emptiness queries (extended abstract)
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p304-erickson
+
+608.)8.09829e-005
+ACM Digital Library: Rotational polygon overlap minimization
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p334-milenkovic
+
+609.)8.09829e-005
+ACM Digital Library: The area bisectors of a polygon and force equilibria in programmable vector fields
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p457-bohringer
+
+610.)8.09829e-005
+ACM Digital Library: Fast collision detection among multiple moving spheres
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p373-kim
+
+611.)8.09829e-005
+ACM Digital Library: Practical techniques for constructing binary space partitions for orthogonal rectangles
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p382-agarwal
+
+612.)8.09829e-005
+ACM Digital Library: Guaranteed-quality Delaunay meshing in 3D (short version)
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p391-chew
+
+613.)8.09829e-005
+ACM Digital Library: Good orders for incremental (re)construction
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p400-snoeyink
+
+614.)8.09829e-005
+ACM Digital Library: Classical computational geometry in GeomNet
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p412-barequet
+
+615.)8.09829e-005
+ACM Digital Library: Dynamic visibility in polygonal scenes with the visibility complex
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p421-riviere
+
+616.)8.09829e-005
+ACM Digital Library: Exact primitives for smallest enclosing ellipses
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p430-gartner
+
+617.)8.09829e-005
+ACM Digital Library: Clusters of stars
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p439-streinu
+
+618.)8.09829e-005
+ACM Digital Library: A triangulation-based object reconstruction method
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p481-bernardini
+
+619.)8.09829e-005
+ACM Digital Library: 3D visibility made visibly simple: an introduction to the visibility skeleton
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p475-durand
+
+620.)8.09829e-005
+ACM Digital Library: Searching for mobile intruders in a polygonal region by a group of mobile searchers (extended abstract)
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p448-yamashita
+
+621.)8.09829e-005
+ACM Digital Library: Computing the minimum diameter for moving points: an exact implementation using parametric search
+http://www.acm.org/pubs/citations/proceedings/compgeom/262839/p466-schwerdt
+
+622.)7.98033e-005
+ACM Digital Library: Four-polytopes and a funeral (for my conjecture)
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p501-amenta
+
+623.)7.98033e-005
+ACM Digital Library: Robust adaptive floating-point geometric predicates
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p141-shewchuk
+
+624.)7.98033e-005
+ACM Digital Library: Smallest enclosing cylinders
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p413-schomer
+
+625.)7.98033e-005
+ACM Digital Library: The graph of triangulations of a convex polygon
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p407-hurtado
+
+626.)7.98033e-005
+ACM Digital Library: Experimental results of randomized clustering algorithm
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p401-inaba
+
+627.)7.98033e-005
+ACM Digital Library: Monotonicity of rectilinear geodesics in <italic>d</italic>-space (extended abstract)
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p339-choi
+
+628.)7.98033e-005
+ACM Digital Library: Approximating monotone polygonal curves using the uniform metric
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p311-varadarajan
+
+629.)7.98033e-005
+ACM Digital Library: Fixed-dimensional linear programming queries made easy
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p284-chan
+
+630.)7.98033e-005
+ACM Digital Library: <italic>d</italic><subscrpt>1</subscrpt>-optimal motion for a rod (extended abstract)
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p252-asano
+
+631.)7.98033e-005
+ACM Digital Library: Enumeration of regular triangulations
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p224-masada
+
+632.)7.98033e-005
+ACM Digital Library: Approaching the largest -skeleton within a minimum weight triangulation
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p196-cheng
+
+633.)7.98033e-005
+ACM Digital Library: On computing Voronoi diagrams by divide-prune-and-conquer
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p166-amato
+
+634.)7.98033e-005
+ACM Digital Library: On piercing sets of objects
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p113-katz
+
+635.)7.98033e-005
+ACM Digital Library: Splitting a complex of convex polytopes in any dimension
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p88-bajaj
+
+636.)7.98033e-005
+ACM Digital Library: On the number of arrangements of pseudolines
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p30-felsner
+
+637.)7.98033e-005
+ACM Digital Library: On computing edges that are in all minimum-weight triangulations
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p507-belleville
+
+638.)7.98033e-005
+ACM Digital Library: Linear complexity hexahedral mesh generation
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p58-eppstein
+
+639.)7.98033e-005
+ACM Digital Library: Collision detection for fly-throughs in virtual environments
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p513-held
+
+640.)7.98033e-005
+ACM Digital Library: New lower bounds for convex hull problems in odd dimensions
+http://www.acm.org/pubs/citations/proceedings/compgeom/237218/p1-erickson
+
+641.)7.59937e-005
+Graph Theory and Combinatorics
+http://maite71.upc.es/grup_de_grafs
+
+642.)6.65199e-005
+Geomview Manual - Table of Contents
+http://www.geom.umn.edu/software/geomview/geomview_4.html
+
+643.)5.5781e-005
+Oxford English Dictionary
+http://www.oed.com
+
+644.)5.45997e-005
+Mediasurface - Enterprise web content management is the heart of e-business
+http://www.mediasurface.com
+
+645.)5.45997e-005
+Internet Training UK - Internet Centre
+http://www.bicentre.co.uk
+
+646.)2.23361e-005
+The Department of Computer Science
+http://www.cs.ubc.ca/home
+
+647.)8.20401e-006
+Determinant computation
+http://www-sop.inria.fr/prisme/logiciel/determinant.html
+
+648.)8.98273e-007
+Pearson Education Canada
+http://www.pearsoned.ca
+
+649.)8.95919e-007
+PHG School Canada
+http://www.phcanada.com/phg
+
+650.)8.95919e-007
+Professional Trade &amp; Reference
+http://www.phcanada.com/ptr
+
+651.)8.95919e-007
+Pearson Education Canada
+http://www.pearsoned.ca/highered/catalogue
+
+652.)8.95919e-007
+Prentice Hall Canada - Discussion Forum
+http://www.phcanada.com/phcboard/discussion.html
+
+653.)0
+sources
+http://www.cs.yorku.ca/~andy/courses/4101/projects/sources.html
+
+654.)0
+Scientific Computing, Teaching
+http://www.sc.rwth-aachen.de/Teaching/teaching.html
+
+655.)0
+Research Links
+http://injo.pufs.ac.kr/~shkim/src/RI/link.html
+
+656.)0
+Interesting Links
+http://jupiter.kaist.ac.kr/~tjpark/GLink.ks.html
+
+657.)0
+GEOMETRIE ALGORITHMIQUE
+http://www-sop.inria.fr/prisme/personnel/boissonnat/generalites_CG.html
+
+658.)0
+events - Dissections: Plane & Fancy
+http://www.cs.purdue.edu/homes/gnf/book/events.html
+
+659.)0
+Prentice-Hall Academic -- 0132908425
+http://vig.prenhall.com/acadbookpage?ISBN=0132908425
+
+660.)0
+Empty title field
+http://www-apache.imag.fr/~gersonc/conf/passadas.html
+
+661.)0
+bCentral - Banner Network Target and control your advertising campaign for free on the bCentral Banner Network.
+http://leader.linkexchange.com/159868/X1204099/clicklogo
+
+662.)0
+Empty title field
+http://www.imsc.ernet.in/~iarcs/vol2-2/cg.html
+
+663.)0
+EVlib -- Show
+http://visinfo.zib.de/EVlib/Show?EVL-1994-4
+
+664.)0
+Welcome to Amazon.co.uk
+http://www.amazon.co.uk/exec/obidos/redirect-home?tag=ww2afvportainass&site=amazon
+
+665.)0
+Scientific Computing, Research
+http://www.sc.rwth-aachen.de/Research/research.html
+
+666.)0
+Publications
+http://www.sc.rwth-aachen.de/Publications/publications.html
+
+667.)0
+Research Interests
+http://cgm.cs.mcgill.ca/~godfried/web.html
+
+668.)0
+Conferences and Workshops Related to ALENEX 99
+http://www.cs.jhu.edu/Conferences/ALENEX99/related.html
+
+669.)0
+Scientific Computing, People
+http://www.sc.rwth-aachen.de/People/people.html
+
+670.)0
+Scientific Computing, Diplom
+http://www.sc.rwth-aachen.de/Diplom/diplom.html
+
+671.)0
+Scientific Computing, Travel
+http://www.sc.rwth-aachen.de/Diverce/address.html
+
+672.)0
+Scientific Computing, Previous Highlights
+http://www.sc.rwth-aachen.de/PreviousHigh/previous.html
+
+673.)0
+Stefan Funke's MPI-Homepage
+http://www.mpi-sb.mpg.de/~funke
+
+674.)0
+Yahoo! Science&gt;Computer Science&gt;Conferences
+http://sg.yahoo.com/Science/Computer_Science/Conferences
+
+675.)0
+Empty title field
+http://www.site.uottawa.ca/~arbouche/fall97.html
+
+676.)0
+Links
+http://www.nishizeki.ecei.tohoku.ac.jp/nszk/nakano/Comp/conference.html
+
+677.)0
+Bookmarks for Maurizio Patrignani
+http://www.inf.uniroma3.it/~patrigna/bookmarks.html
+
+678.)0
+Kyros' Computer Vision Bookmarks
+http://www.cs.rochester.edu/u/kyros/Bookmarks/vision-bookmarks.htm
+
+679.)0
+gm_events
+http://bat710.univ-lyon1.fr/~bouras/gm/gm_events.html
+
+680.)0
+About Myself
+http://www.co.umist.ac.uk/~xtian/myself.html
+
+681.)0
+Petra
+http://www.raingod.com/angus/Gallery/Photos/MiddleEast/Jordan/Petra
+
+682.)0
+Computational Geometry Links
+http://corelab.cs.ntua.gr/courses/compgeom
+
+683.)0
+Zo&euml;'s linkage
+http://www.multires.caltech.edu/~zoe/fun.html
+
+684.)0
+Computer Graphics-Related Courses at CMU
+http://www.cs.cmu.edu/~ph/gfxcourses.html
+
+685.)0
+VRML 1.0C Specification
+http://www.vrml.org/Specifications/VRML1.0
+
+686.)0
+Theory Links
+http://18.52.0.92/~karger/theory.html
+
+687.)0
+Conference CFPs
+http://robotics.stanford.edu/~suresh/theory/conf/cfp-by-date.html
+
+688.)0
+Stefan Schirra
+http://www.mpi-sb.mpg.de/~stschirr
+
+689.)0
+Bogdan's
+http://phobos.cs.unibuc.ro/~bogst/links.html
+
+690.)0
+Research Time Table
+http://www.cs.duke.edu/~sariel/CG/time_table.html
+
+691.)0
+Links in's WWW
+http://diabetes.tu-graz.ac.at/DiabetesAmbulanz/mitarbeiter/battlogg/kgbatt/links/bookmark.htm
+
+692.)0
+Erik Demaine's Papers
+http://daisy.uwaterloo.ca/~eddemain/papers
+
+693.)0
+Dan Halperin, more links
+http://www.math.tau.ac.il/~halperin/more-links.html
+
+694.)0
+Mathmatical Resources
+http://www.math.psu.edu/jacobsen/math/links.html
+
+695.)0
+Israel Travel, Israel Hotels and Tourism Guide
+http://www.inisrael.com
+
+696.)0
+Interactive Israel tourism guide
+http://www.insite.co.il/tour/eilat/eilat.htm
+
+697.)0
+IHP - High-level Scientific Conferences
+http://www.cordis.lu/improving/src/hp_hlsc.htm
+
+698.)0
+Ben Gurion University
+http://www.bgu.ac.il
+
+699.)0
+EURO-CG2000-How Do I Get There?
+http://www.cs.bgu.ac.il/~cg2000/HowToGetHere.html
+
+700.)0
+EURO-CG2000 Financial support
+http://www.cs.bgu.ac.il/~cg2000/CGFinancialSupport.html
+
+701.)0
+EURO-CG2000-Registration &amp; Accommodation
+http://www.cs.bgu.ac.il/~cg2000/CGRegAccomodation.html
+
+702.)0
+EURO-CG2000 Program
+http://www.cs.bgu.ac.il/~cg2000/CGProgram.html
+
+703.)0
+EURO-CG2000 Important dates
+http://www.cs.bgu.ac.il/~cg2000/CGImportantDates.htm
+
+704.)0
+EURO-CG2000-Call for papers
+http://www.cs.bgu.ac.il/~cg2000/CGcallForpapers.html
+
+705.)0
+Bookmarks for Maurizio Pizzonia
+http://www.dia.uniroma3.it/~pizzonia/bookmarks.html
+
+706.)0
+Bookmarks for sooha p lee
+http://www.cis.upenn.edu/~sooha/bookmarks.html
+
+707.)0
+Algorithmische und Diskrete Mathematik
+http://www.math.tu-berlin.de/FB/diskremath.html
+
+708.)0
+Computational Geometers
+http://tclab.kaist.ac.kr/~cssin/cg-people.html
+
+709.)0
+Amazon.de
+http://www.amazon.de/exec/obidos/redirect-home?tag=ww2afvportalinpa&site=home
+
+710.)0
+Project #27: Cartesian trees -- Winter 1999
+http://www.cs.mcgill.ca/~dairap/cs251/project.html
+
+711.)0
+Amazon.com--Earth's Biggest Selection
+http://www.amazon.com/exec/obidos/redirect-home/ww2afvportal
+
+712.)0
+Amazon.com: buying info: Computer Graphics : An Introduction to the Mathematics and Geometry
+http://www.amazon.com/exec/obidos/ASIN/0831111828/ww2afvportal
+
+713.)0
+Amazon.com: buying info: Computational Geometry : Algorithms and Applications
+http://www.amazon.com/exec/obidos/ASIN/354061270X/ww2afvportal
+
+714.)0
+Amazon.com: buying info: Computational Geometry : An Introduction (Texts and Monographs in Computer Science)
+http://www.amazon.com/exec/obidos/ASIN/0387961313/ww2afvportal
+
+715.)0
+Amazon.com: buying info: Computational Geometry in C
+http://www.amazon.com/exec/obidos/ASIN/0521649765/ww2afvportal
+
+716.)0
+Amazon.de, auf einen Blick: Computational Geometry and Computer Graphics in C++
+http://www.amazon.de/exec/obidos/ASIN/0132908425/ww2afvportalinpa
+
+717.)0
+Amazon.co.uk: A Glance: Computational Geometry and Computer Graphics in C++
+http://www.amazon.co.uk/exec/obidos/ASIN/0132908425/ww2afvportainass
+
+718.)0
+Amazon.com: buying info: Computational Geometry and Computer Graphics in C++ [FACSIMILE]
+http://www.amazon.com/exec/obidos/ASIN/0132908425/ww2afvportal
+
+719.)0
+ilja radusch - studium: sechstes semester
+http://user.cs.tu-berlin.de/~motu/studium7sem.html
+
+720.)0
+applied algorithms
+http://www.cs.uu.nl/groups/AA
+
+721.)0
+Marc Pfetsch
+http://www.math.TU-Berlin.de/~pfetsch
+
+722.)0
+Welcome to The Florida A&M University
+http://www.famu.edu
+
+723.)0
+Advanced Distributed Simulation Research Consortium (ADSRC)
+http://www.adsrc.org
+
+724.)0
+FAMU's FLATEXnet page
+http://www.adsrc.famu.edu/flatex
+
+725.)0
+FAMU's nVIEW site
+http://www.adsrc.famu.edu/nview
+
+726.)0
+energy group intro
+http://www-g.eng.cam.ac.uk/energy
+
+727.)0
+Cambridge University Engineering Department (CUED)
+http://www.eng.cam.ac.uk
+
+728.)0
+University of Cambridge
+http://www.cam.ac.uk
+
+729.)0
+GeoPro Environment for Distributed Visualization
+http://www.dcc.unicamp.br/~rezende/geopro/Welcome.html
+
+730.)0
+Diane's Graphics Page
+http://www4.geocities.com/Athens/Academy/9468/graphics.htm
+
+731.)0
+Mathmatical Resources
+http://www.math.utah.edu/~thornton/math/links.html
+
+732.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/023601-023650.html
+
+733.)0
+Anne Condon
+http://www.cs.ubc.ca/~condon/ 
+
+734.)0
+Janos Pach
+http://www.cims.nyu.edu/~pach/pach1.html
+
+735.)0
+Welcome to the University of Southern Denmark
+http://www.sdu.dk/IndexE.html
+
+736.)0
+Computer Science
+http://www.cs.williams.edu/~lenhart/compsci.html
+
+737.)0
+Henning Biermann
+http://www.mrl.nyu.edu/biermann/old_index.html
+
+738.)0
+Seminars
+http://cs.smith.edu/~streinu/Research/seminar.html
+
+739.)0
+mylinks2.html
+http://magenta.math.uconn.edu/~pinchb/mylinks2.html
+
+740.)0
+Kenneth Pao
+http://cs1.cs.nyu.edu/phd_students/hsingkuo
+
+741.)0
+David Eppstein - Publications
+http://www.ics.uci.edu/~eppstein/pubs
+
+742.)0
+Erik Demaine's Talks
+http://daisy.uwaterloo.ca/~eddemain/talks
+
+743.)0
+Computational Geometry Pages: What's old?
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/prehistory.html
+
+744.)0
+Nagai Takayuki
+http://tokweb.ics.es.osaka-u.ac.jp/~nagai
+
+745.)0
+Mark Moll's home on the Web :: Robotics
+http://www.cs.cmu.edu/~moll/robotics
+
+746.)0
+Bookmarks for Tilman Fischer
+http://www.inf.fu-berlin.de/~tfischer/bookmarks.html
+
+747.)0
+Universitaet Wuerzburg
+http://www.uni-wuerzburg.de/indexe.html
+
+748.)0
+David Kirkpatrick
+http://www.iam.ubc.ca/people/faculty/kirkpatrick.html
+
+749.)0
+SWIFT-Supporting Women in InFormation Technology
+http://taz.cs.ubc.ca/swift
+
+750.)0
+Information on wagner
+http://www.cs.ubc.ca/userinfo/user/wagner
+
+751.)0
+theory
+http://www.voronoi.com/theory.html
+
+752.)0
+Computational Geometry Web Directories
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/direct.html
+
+753.)0
+SoCG '99 Call for Videos
+http://compgeom.cs.uiuc.edu/~jeffe/socg99videos.html
+
+754.)0
+SRC - Research Reports
+http://www.research.compaq.com/SRC/publications/src-rr.html
+
+755.)0
+Copyright Notice
+http://www.risc.uni-linz.ac.at/projects/basic/cgal/pictures/seagullcopyright.html
+
+756.)0
+"All" Engineering Resources on the Internet (EELS), by Domain
+http://mother.lub.lu.se/ae/bydomain/037801-037850.html
+
+757.)0
+All Partners in CGAL
+http://www.risc.uni-linz.ac.at/projects/basic/cgal/partners
+
+758.)0
+MathWeb Journals
+http://www.ams.org/mathweb/mi-journals5.html
+
+759.)0
+Current contents and general information of printed journals
+http://www.math.uni.wroc.pl/~library/czasopisma.html
+
+760.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/135401-135450.html
+
+761.)0
+Expired Announcements 1996
+http://www.uni-paderborn.de/fachbereich/AG/agmadh/WWW/GI/ExpAnn96.html
+
+762.)0
+Empty title field
+http://netlib.bell-labs.com/netlib/compgeom/announce/archive/all/m166.html
+
+763.)0
+MULTISCALE SHAPE REPRESENTATION AND DESCRIPTION
+http://www.ime.usp.br/~cesar/shapes.htm
+
+764.)0
+Miguel &Aacute;ngel Gonz&aacute;lez Ballester
+http://www.robots.ox.ac.uk/~magb
+
+765.)0
+URLs
+http://fano.ics.uci.edu/cites/URL
+
+766.)0
+Expired Announcements 1996
+http://www.uni-paderborn.de/fachbereich/AG/agmadh/WWW/GI/ExpAnn97.html
+
+767.)0
+Luiz Cristov„o Gomes Coelho - Home Page
+http://www.tecgraf.puc-rio.br/~lula
+
+768.)0
+"All" Engineering Resources on the Internet (EELS), by Domain
+http://mother.lub.lu.se/ae/bydomain/009401-009450.html
+
+769.)0
+Research
+http://www.cs.ruu.nl/people/chantal/geometry.html
+
+770.)0
+Theory Seminar
+http://www.ics.uci.edu/~theory/269/w97.html
+
+771.)0
+DMANET: Call for Participation: CG'97
+http://mat.gsia.cmu.edu/DMANET/DEC3199/0029.html
+
+772.)0
+Research Group
+http://tclab.kaist.ac.kr/~dskim/group/group.html
+
+773.)0
+Bestand
+http://elib.uni-osnabrueck.de/INFORMATIK/abstr.html
+
+774.)0
+Protokoll der 2. Sitzung
+http://wwwipr.ira.uka.de/~germ_rob/GI-FA/Protokolle/Sitzung2.html
+
+775.)0
+CG '97 Call for Participation
+http://www.informatik.uni-trier.de/GI/FG-014/Announce/1997/CG97.CP.html
+
+776.)0
+Untitled Document
+http://www.sdu.dk/Nat/fak/kurser/datalogi/dm02.html
+
+777.)0
+Department of Computer Science
+http://www.informatik.uni-wuerzburg.de/institut/index_e.html
+
+778.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://nwi2.lub.lu.se/ae/bytitle/018151-018200.html
+
+779.)0
+Frankfurt Airport-Information - Homepage
+http://www.frankfurt-airport.de
+
+780.)0
+Deutsche Bahn AG - Fahrplanauskunft
+http://www.hacon.de/bin/db.w96/detect.exe/bin/db.w96/query.exe/e?
+
+781.)0
+Tolga Capin's Parallel Graphics Page
+http://ligwww.epfl.ch/~capin/en/mp-render.html
+
+782.)0
+Under Construction
+http://tclab.kaist.ac.kr/~yikim/Research/research.html
+
+783.)0
+Universitaet Wuerzburg, Lageplaene
+http://www.uni-wuerzburg.de/lageplan
+
+784.)0
+Home Page of Kim Skak Larsen / Kim S. Larsen / K. S. Larsen / Kim Larsen
+http://www.imada.sdu.dk/~kslarsen
+
+785.)0
+w¸rzburg Online
+http://www.wuerzburg.de/index.eng.html
+
+786.)0
+Bookmarks for Jianhua Yao
+http://www.cs.jhu.edu/~jhyao/bookmark.html
+
+787.)0
+The Geometry Junkyard
+http://srd.yahoo.com/drst/8766272/*http://www.ics.uci.edu/~eppstein/junkyard
+
+788.)0
+LINK: Peak-time overload
+http://link.springer.de/link/service/journals/00453/bibs/16n45p498.html
+
+789.)0
+Directory of Computational Geometry Software
+http://srd.yahoo.com/drst/857389/*http://www.geom.umn.edu/software/cglist
+
+790.)0
+The former CGAL home page
+http://srd.yahoo.com/drst/12151749/*http://www.cs.uu.nl/CGAL
+
+791.)0
+jundong liu's Bookmarks
+http://www-pub.cise.ufl.edu/~jliu/bookmarks.html
+
+792.)0
+On Spanning Trees with Low Crossing Numbers
+http://www.inf.fu-berlin.de/inst/pubs/tr-b-92-02.abstract.html
+
+793.)0
+Journals
+http://www.visgraf.impa.br/journals.html
+
+794.)0
+ACM Computational Geometry Symposium
+http://pore.csc.fi/math_topics/Mail/NANET97-3/msg00110.html
+
+795.)0
+conference
+http://www.ececs.uc.edu/~spark/conference.html
+
+796.)0
+Matya Katz, more links
+http://www.cs.bgu.ac.il/~matya/more-links.html
+
+797.)0
+Computer Graphics Bookmarks
+http://www.graphics.lcs.mit.edu/~fredo/Book/publi.html
+
+798.)0
+Links
+http://www.lim.univ-mrs.fr/~delpias/chris_page_liens_eng.html
+
+799.)0
+Links
+http://www.hirata.nuee.nagoya-u.ac.jp/Comp/conference.html
+
+800.)0
+Christoph M. Hoffmann
+http://www.cs.purdue.edu/homes/cmh/MyHome.html
+
+801.)0
+jundong liu's Bookmarks
+http://www.cise.ufl.edu/~jliu/bookmarks.html
+
+802.)0
+The Undergraduate Algorithms Course
+http://www.middlebury.edu/~dickerso/ccsc/ugcg.html
+
+803.)0
+Middlebury Undergraduate Computation Geometry Project
+http://cweb.middlebury.edu/cr/compgeom
+
+804.)0
+CG Tribune
+http://srd.yahoo.com/drst/857397/*http://www-sop.inria.fr/prisme/personnel/bronnimann/cgt
+
+805.)0
+References on Hausdorff distance
+http://www-cgrl.cs.mcgill.ca/~godfried/teaching/cg-projects/98/normand/references.html
+
+806.)0
+Alejo Hausner's Bookmarks
+http://www.cs.princeton.edu/~ah/bookmarks.html
+
+807.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/233551-233600.html
+
+808.)0
+Triangulations
+http://www.math.utah.edu/~alfeld/MDS/triangulation.html
+
+809.)0
+Untitled Document
+http://web.cs.ualberta.ca/~mario/CGVIZ/conferences/cg_conf.htm
+
+810.)0
+Papers - Sariel Har-Peled
+http://www.cs.duke.edu/~sariel/papers/papers.html
+
+811.)0
+socg98@{Codepage}
+http://www2.iro.umontreal.ca/~ratib/code/socg98.htm
+
+812.)0
+Raising roofs, crashing cycles, and playing pool
+http://compgeom.cs.uiuc.edu/~jeffe/pubs/cycles.html
+
+813.)0
+Contributions of RISC
+http://www.risc.uni-linz.ac.at/projects/basic/cgal/workdone
+
+814.)0
+Publications on CAD &amp; Solid Modeling
+http://www.lems.brown.edu/vision/people/leymarie/Refs/CompGeom/CAD.html
+
+815.)0
+Coworkers of CGAL at RISC
+http://www.risc.uni-linz.ac.at/projects/basic/cgal/coworkers
+
+816.)0
+Open Directory - Science: Math: Geometry: Computational Geometry: Journals
+http://dmoz.org/Science/Math/Geometry/Computational_Geometry/Journals
+
+817.)0
+Geometric modeling links
+http://www.cis.uab.edu/info/faculty/jj/links.html
+
+818.)0
+ZAIK/ZPR Papers and Publications: Details on zpr97-280, Histogram decomposition and stereolithography
+http://www.zaik.uni-koeln.de/~paper/paper.php3?paper=280
+
+819.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/098601-098650.html
+
+820.)0
+Computer Science: Journals
+http://www.it.uom.gr/pdp/DigitalLib/Computer/CS_Journ.htm
+
+821.)0
+Reviver Home Page
+http://geomwiz.tripod.com/develop.html
+
+822.)0
+Links
+http://www.cs.helsinki.fi/u/tmielika/links.html
+
+823.)0
+SAICSIT
+http://www.cs.unp.ac.za/saicsit
+
+824.)0
+Journals
+http://www.cs.duke.edu/~sariel/bookmarks/book0102.html
+
+825.)0
+CGAL Topics at RISC
+http://www.risc.uni-linz.ac.at/projects/basic/cgal/topics
+
+826.)0
+Gakkai
+http://chewie.nishizeki.ecei.tohoku.ac.jp/nszk/nakano/gakkai.html
+
+827.)0
+Carl in Hagenberg and Toulouse
+http://www.laas.fr/~cvangeem/work.html
+
+828.)0
+Workshop on Geometric Computing
+http://www-sop.inria.fr/prisme/scg97/prog_workshop.html
+
+829.)0
+Computational Geometry Special Issues
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/special.html
+
+830.)0
+lista e-journal di interesse matematico
+http://www.math.unipd.it/~biblio/seminario/biblioteca/e-jourmath.htm
+
+831.)0
+Weizmann Institute of Science
+http://www.weizmann.ac.il
+
+832.)0
+Data-Structures and Paradigms in Computational Geometry
+http://www.risc.uni-linz.ac.at/courses/ss97/cgalc
+
+833.)0
+Projekt ``CGAL'' (AG-TI)
+http://www.inf.fu-berlin.de/inst/ag-ti/projects/cgal.de.html
+
+834.)0
+ACM Digital Library: On lazy randomized incremental construction
+http://www.acm.org/pubs/citations/proceedings/stoc/195058/p105-de_berg
+
+835.)0
+comgeo
+http://math.skku.ac.kr/~geometry/comgeo.html
+
+836.)0
+258 Project
+http://www.cs.unc.edu/~mantler/258
+
+837.)0
+Module links voor Computer Graphics
+http://www.hio.hen.nl/~zielman/vakken/c_g/modlinks.html
+
+838.)0
+lf_i
+http://www.eti.pg.gda.pl/KATEDRY/kpi/lista_fil/lf_i.htm
+
+839.)0
+Ulli Kortenkamp's List of Publications
+http://geometry.inf.ethz.ch/~kortenka/publ.html
+
+840.)0
+¿¸¿⁄¿˙≥Œ ∏ÆΩ∫∆Æ
+http://libk.dongguk.ac.kr/jlist/jlist_free.html
+
+841.)0
+PERIODIQUES EN LIGNE
+http://www.inria.fr/InfoWeb/Magazines-fra.html
+
+842.)0
+Hongbin Zha, misc page
+http://fortune.is.kyushu-u.ac.jp/~zha/link.html
+
+843.)0
+Journals
+http://www.cs.lth.se/home/Joakim_Gudmundsson/Indexkatalog/Journal.html
+
+844.)0
+¿¸¿⁄¿˙≥Œ
+http://www.hallym.ac.kr/~library/ejournal.html
+
+845.)0
+Springer LINK - List of available journals
+http://www.uab.edu/lister/spr_list.htm
+
+846.)0
+Electronic Journals: D-H
+http://wwwstage.library.ucla.edu/.test/etext/sciences/ejournals/d-h.html
+
+847.)0
+Online Journals
+http://ambitious.lib.hokudai.ac.jp/online_journal/foreign/D.html
+
+848.)0
+Jankos Media Monster: Wissenschaftliche Fachzeitschriften: Einzelne Titel A-D
+http://userpage.fu-berlin.de/~jpuls/knowad.htm
+
+849.)0
+«—±π√∂µµ¥Î«– ¿¸¿⁄µµº≠∞¸-¿¸¿⁄¿˙≥Œ
+http://library.krc.ac.kr/search/ej-list.html
+
+850.)0
+PSE Library, McGill - Full-Text Journals & Books in Science & Engineering
+http://www.mclennan.library.mcgill.ca/psel/fulltext.htm
+
+851.)0
+Empty title field
+http://www.daimi.au.dk/Library/Dat-Journals.html
+
+852.)0
+University of Hawaii Libraries Serials Department - Electronic Journals by Title
+http://www.math.hawaii.edu/~dale/etitle.html
+
+853.)0
+Indirizzi Web Riviste
+http://www.ladseb.pd.cnr.it/~biblio/www.html
+
+854.)0
+Elektronische Zeitschriften - Mathematik
+http://www.ub.uni-bayreuth.de/EFI/EL-ZS/el-Zs-math.htm
+
+855.)0
+math
+http://www.math.nsysu.edu.tw/u/scicomp/chinese/sci_comp/math.htm
+
+856.)0
+Links
+http://www.hirata.nuee.nagoya-u.ac.jp/Comp/links.html
+
+857.)0
+Kobe-u Natural Science Library Online Journal Page (Foreign Journal-D)
+http://www.kobe-yamate.ac.jp/~hotta/yo-links-d.html
+
+858.)0
+Journals
+http://jupiter.math.nctu.edu.tw/Dep/library/journals.htm
+
+859.)0
+Electronic Journals
+http://algolab.korea.ac.kr/security/eljo.html
+
+860.)0
+Alphabetische Zeitschriftenliste
+http://www.uni-kassel.de/bib/online/zeitalph.html
+
+861.)0
+Kobe-u Natural Science Library Online Journal Page (Foreign Journal-D)
+http://www.lib.kobe-u.ac.jp/shizen/contents/yo-links-d.html
+
+862.)0
+¿¸¿⁄¿˙≥Œ
+http://my.netian.com/~7773/etmews.htm
+
+863.)0
+G.L. Xue: Journals with TOC on-line
+http://mansfield.emba.uvm.edu/~xue/HTML/JOURNALS.html
+
+864.)0
+Yahoo! Science&gt;Mathematics&gt;Geometry&gt;Computational Geometry
+http://www.yahoo.com.au/Science/Mathematics/Geometry/Computational_Geometry
+
+865.)0
+Bookmarks for Quinn J. Hart
+http://vache.ucdavis.edu/~quinn/bookmarks.html
+
+866.)0
+xarch AutoCAD ADS/ARX tools and samples
+http://xarch.tu-graz.ac.at/autocad/ads
+
+867.)0
+CGAL: a library for flexible geometric computing
+http://www-troja.fjfi.cvut.cz/aca98/sessions/industr/veltkamp/veltkamp.html
+
+868.)0
+BotSpot Æ : The Spot for all Bots & Intelligent Agents
+http://bots.internet.com/faqs/language_and_code3.htm
+
+869.)0
+Bookmarks for Claus S. Andersen
+http://www.vision.auc.dk/~sig/bookmarks.html
+
+870.)0
+Empty title field
+http://www.math-stat.unibe.ch/~bieria/mathsoft.html
+
+871.)0
+References
+http://www.cim.mcgill.ca/~image529/TA529/Image529_99/frames/text_references.html
+
+872.)0
+Com S 418/518 Home Page
+http://janowiec.cs.iastate.edu/cs518
+
+873.)0
+Sven Schˆnherr
+http://www.inf.ethz.ch/~sven
+
+874.)0
+Libraries available via FTP (A-C)
+http://www.trumphurst.com/cpplibs2.html
+
+875.)0
+The PSciCo Internal Page
+http://www.cs.cmu.edu/~pscico/internal.html
+
+876.)0
+ZIB - Hotlist der Bibliothek
+http://www.zib.de/bib/Ejournals.html
+
+877.)0
+Magic Software: Other Links
+http://www.magic-software.com/OtherLinks.html
+
+878.)0
+Links
+http://snabel.ava.taby.se/links.htm
+
+879.)0
+Michael Hoffmann
+http://www.inf.ethz.ch/personal/hoffmann
+
+880.)0
+electronic
+http://www.cs.yorku.ca/~andy/courses/electronic.html
+
+881.)0
+¨€√ˆ≥sµ≤
+http://www.hello.com.tw/~vjack/link/novb.htm
+
+882.)0
+Bookmarks for DeWitt Latimer IV
+http://www.contrib.andrew.cmu.edu/~dl4s/personal/bookmarks.html
+
+883.)0
+AG 1: Projects
+http://www.mpi-sb.mpg.de/units/ag1/projects.html
+
+884.)0
+Hardware and Software available in the CREDO Laboratory
+http://www.vr.clemson.edu/credo/mainpage/swhw.html
+
+885.)0
+programming resources links
+http://www.users.cts.com/crash/b/billk/prog.html
+
+886.)0
+Geog 487 URLs (in progress)
+http://www2.hawaii.edu/~matt/487/urls.html
+
+887.)0
+Springer Journals
+http://www.wlu.edu/~hblackme/whaley/springer.html
+
+888.)0
+Geometry links
+http://www.cs.smith.edu/%7Estreinu/Research/geomlinks.html
+
+889.)0
+The Math Forum - Math Library - Course Notes
+http://www.mathforum.com/library/resource_types/course_notes
+
+890.)0
+Mega Web M Listings, Part 1
+http://geraki.ccf.auth.gr/websites/HTML/mwd_m1.htm
+
+891.)0
+Empty title field
+http://www.cgc.cs.jhu.edu/~goodrich/dsa/15geometry
+
+892.)0
+Iowa State University:Mechanical Engineering:CadCam Group
+http://www.public.iastate.edu/~cadcam/links.html
+
+893.)0
+Ullrich K&ouml;thes Hotlist of Computer Vision
+http://kogs-www.informatik.uni-hamburg.de/~koethe/hotlist_vision.html
+
+894.)0
+CAD
+http://attila.stevens-tech.edu/~cyu2/research/cad.html
+
+895.)0
+êîílåvéZä÷òA
+http://www.hept.himeji-tech.ac.jp/~ninomiya/links9.htm
+
+896.)0
+Numerical Methods links
+http://www.meca.ucl.ac.be/~magotte/nume_links.html
+
+897.)0
+Workshop in Computational Geometry - Description
+http://www.cs.duke.edu/~sariel/CG/applets/main_old.html
+
+898.)0
+Computational Geometry Pages: What's ancient?
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/preprehistory.html
+
+899.)0
+How to use applet
+http://x86.cs.duke.edu/~sariel/CG/applets/linear_prog/Use.html
+
+900.)0
+link
+http://udgserv.cencar.udg.mx/~nesterov/link18.htm
+
+901.)0
+Geometry links
+http://cs.smith.edu/~streinu/Research/geomlinks.html
+
+902.)0
+Call for Papers - CGC '97
+http://www.cs.duke.edu/CGC/workshop97/cfp.html
+
+903.)0
+CGC '97: Program and Abstracts
+http://www.cs.duke.edu/CGC/workshop97/participants.html
+
+904.)0
+Events for the Center for Geometric Computing
+http://www.cs.jhu.edu/labs/cgc/events.html
+
+905.)0
+Computer Science: Conferences 1997
+http://www.informatik.uni-konstanz.de/Info/Conferences/conferences.97.html
+
+906.)0
+Conference CFPs
+http://robotics.stanford.edu/~suresh/theory/conf/cfp-old.html
+
+907.)0
+David Eppstein - Publications
+http://www.ics.uci.edu/~eppstein/pubs/1997.html
+
+908.)0
+DMANET: Call for Papers - 2nd CGC Workshop on Computational Geometry
+http://mat.gsia.cmu.edu/DMANET/DEC3199/0303.html
+
+909.)0
+Iosif Vaisman's Conference Presentations
+http://www.unc.edu/~ivaisman/conferences.htm
+
+910.)0
+DSMFT Conferences
+http://www.cs.tamu.edu/faculty/amato/dsmft/conferences.shtml
+
+911.)0
+Lesezeichen f¸r Axel Hoffmann
+http://www.42.org/~axel/bookmark.html
+
+912.)0
+Empty title field
+http://143.117.24.2/links2.html
+
+913.)0
+John's Journal Repository!
+http://www.nexus.carleton.ca/~jialpert/journal.html
+
+914.)0
+ƒﬂÍÙıÔ ≈ÎÎÁÌÈÍ˛Ì ¡Í·‰ÁÏ·˙Í˛Ì ¬È‚ÎÈÔËÁÍ˛Ì - HEAL Link
+http://leykada.physics.auth.gr/springer/list_d.htm
+
+915.)0
+Elektroniset lehdet
+http://www.joensuu.fi/library/eleaine/ejulka2.htm
+
+916.)0
+New Page 2
+http://cad.zju.edu.cn/home/jin/link.htm
+
+917.)0
+The Math Forum - Math Library - Newsletters
+http://forum.swarthmore.edu/library/resource_types/newsletters
+
+918.)0
+Other Useful World-Wide-Web Links
+http://www2.southwind.net/~jmswtlk/mikelinks.html
+
+919.)0
+Otras Direcciones Interesantes - Gr&aacute;ficos por Computador
+http://ftp.uniovi.es/links/graficos.html
+
+920.)0
+Mathematics
+http://www.abacom.com/innomagi/online/scienc_t/math.htm
+
+921.)0
+Optimization Softwares and Test Problems
+http://indy.fce.vutbr.cz/literatura/ov/opt-codeE.htm
+
+922.)0
+Bookmarks for Henrik Johansson
+http://www.student.hk-r.se/~pt95hjo/.bookmarks.html
+
+923.)0
+Mathematics Home Page
+http://www.csbsju.edu/library/internet/mathhome.html
+
+924.)0
+Bookmarks for Kwangkeun Yi
+http://ropas.kaist.ac.kr/~kwang/bookmarks.html
+
+925.)0
+Optimization Softwares and Test Problems by Tomomi Matsui
+http://dmawww.epfl.ch/roso.mosaic/kf/opt-codeE.html
+
+926.)0
+Final Year Project - Links
+http://www.cs.bham.ac.uk/~dxp/proj/links.html
+
+927.)0
+Math Resources
+http://wiuadm1.wiu.edu/resources/math.asp
+
+928.)0
+Empty title field
+http://www.cs.brown.edu/courses/cs016/book/textbook/links.html
+
+929.)0
+Computational Geometry, Algorithms and Applications
+http://www.cs.uu.nl/geobook/links.html
+
+930.)0
+Bill Curry's Bookmarks
+http://www.pitt.edu/~wbcurry/bookmarks.html
+
+931.)0
+Math Resources
+http://teams.lacoe.edu/documentation/places/math/geometry.html
+
+932.)0
+Mike Sch&auml;fer, Geometry / Vis3D
+http://web.cs.bonn.edu/FGL/mike/vis3D_page
+
+933.)0
+Computer Graphics, Vision
+http://kmh.yeungnam-c.ac.kr/comScience/vision
+
+934.)0
+TiKi -tiedonhakusivut, aiheenmukaiset vihjeet
+http://www.cs.helsinki.fi/group/tiki/aihehakemisto.html
+
+935.)0
+My Web Links
+http://www.phys.miyazaki-u.ac.jp/nishiken/usr/zhang/web.html
+
+936.)0
+Computational Geometry Issues
+http://www.laas.fr/~sleroy/Page2.html
+
+937.)0
+Computational Geometry (WS98/99)
+http://www.math.tu-berlin.de/Vorlesungen/WS98/ComputationalGeometry
+
+938.)0
+Computational Geometry and Computer Graphics in C++ [FACSIMILE]
+http://www.wargaming.net/Programming/33/Computational_Geometry_Computer_Graphics_C_FACSIMILE.htm
+
+939.)0
+Discrete and Computational Geometry
+http://gort.ucsd.edu/newjour/d/msg02278.html
+
+940.)0
+Search Computational Geometry
+http://www.elsevier.nl/gej-ng/10/15/20/show/Search
+
+941.)0
+PhD in COMPUTATIONAL GEOMETRY
+http://www.medicis.polytechnique.fr/archives/communaute/msg00454.html
+
+942.)0
+References on Computational Geometry by W.Boehm et alter
+http://www.lems.brown.edu/vision/people/leymarie/Refs/CompGeom/Boehm.html
+
+943.)0
+David Kueker B¸cher  - Learning and Geometry. Computational Approaches.
+http://www.lehrwerk.de/KuekerDavid/KuekerDavid3764338253.htm
+
+944.)0
+Computational Geometry and Computer Graphics in C++
+http://www.phptr.com/ptrbooks/esm_0132908425.html
+
+945.)0
+Computational Geometry
+http://pentagon.cs.jhu.edu/~goodrich/dsa/applets/node10.html
+
+946.)0
+Computational Geometry
+http://www.eecs.wsu.edu/~axen/alpha/geometry.html
+
+947.)0
+Computational Geometry
+http://elib.cs.sfu.ca/cs-journals/P-Elsevier/J-Elsevier-CG.html
+
+948.)0
+COMP 150-GEO: Computational Geometry, Spring 2000
+http://www.eecs.tufts.edu/g/150GEO
+
+949.)0
+Computational Geometry Tutorial
+http://www.adsrc.famu.edu/CGT
+
+950.)0
+Computational Geometry: An Introduction Through Ra... <BR>Mulmuley
+http://www.prenticehall.ca/allbooks/esm_0133363635.html
+
+951.)0
+Scientific Computing, Computational Geometry, Exercises
+http://www.sc.rwth-aachen.de/Teaching/Lectures/VAG/exercises.html
+
+952.)0
+Bibliography on computational geometry and volumetric visualization
+http://cosmos.kaist.ac.kr/pub/bibliographies/Graphics/genova.html
+
+953.)0
+Scientific Computing, Computational Geometry
+http://www.sc.rwth-aachen.de/Teaching/Lectures/VAG/vag.html
+
+954.)0
+Discrete and Computational Geometry: Papers from the DIMACS Special Year: Goodman
+http://www.oup.co.uk/isbn/0-8218-6595-1
+
+955.)0
+Computational Geometry
+http://www.cs.ucf.edu/courses/cot5520
+
+956.)0
+magb - Computational Geometry
+http://www.robots.ox.ac.uk/~magb/Geometry.html
+
+957.)0
+IMADA: Computational Geometry
+http://www.imada.sdu.dk/Courses/DM45/coursedescription.html
+
+958.)0
+SAICSIT Computational Geometry Directory
+http://www.cs.wits.ac.za/~philip/SAICSIT/skills-directory/computational%20geometry
+
+959.)0
+COMPUTATIONAL GEOMETRY
+http://www.wisdom.weizmann.ac.il/courses/comp-geom99-00.html
+
+960.)0
+234 - Advanced Computational Geometry
+http://x86.cs.duke.edu/~sariel/teach/course.html
+
+961.)0
+Computational Geometry
+http://www.diku.dk/~pawel/comp-geom/compgeom99.html
+
+962.)0
+Computational Geometry Lab at McGill
+http://jeff.cs.mcgill.ca/cgm.html
+
+963.)0
+Computational Geometry Lab at McGill
+http://cgm.cs.mcgill.ca
+
+964.)0
+The  Computational Geometry Lab at Lund University
+http://www.cs.lth.se/home/Joakim_Gudmundsson/Geometry_index.html
+
+965.)0
+CPSC 620: Computational Geometry
+http://www.cs.tamu.edu/faculty/amato/Courses/620
+
+966.)0
+Winter 2000 Computational Geometry Seminar
+http://robotics.stanford.edu/~jbasch/GeomSem/00winter
+
+967.)0
+Computational Geometry Bibliography
+http://www-cgrl.cs.mcgill.ca/geombib.html
+
+968.)0
+Computational Geometry
+http://swarm.cs.wustl.edu/vislab/compgeo.html
+
+969.)0
+ESB CIS 4930-007 Introduction to Computational Geometry
+http://marathon.csee.usf.edu/~sarkar/geometry.html
+
+970.)0
+Tik-86.176 Seminar in Computational Geometry
+http://www.cs.hut.fi/~mra/Tik-86.176.html
+
+971.)0
+Computational Geometry
+http://www.coalliance.org/ejournal/unitrec/ej010710.html
+
+972.)0
+Computational Conformal Geometry workshop
+http://klein.math.fsu.edu/~seppala/Symbolic/Workshops/CCGatFSU98/Announcement.html
+
+973.)0
+International Journal of Computational Geometry & Applications
+http://www.iis.sinica.edu.tw/~dtlee/ijcga.html
+
+974.)0
+CICSR/Algorithms,...
+http://www.cicsr.ubc.ca/algorith.html
+
+975.)0
+Empty title field
+http://www.cs.mun.ca/~wang/grad-proj-geometry.html
+
+976.)0
+Computational Geometry
+http://bigram.cs.jhu.edu/~rflorian/CompGeom1.html
+
+977.)0
+Computational Geometry 1997
+http://www.informatik.uni-trier.de/~ley/db/conf/compgeom/compgeom97.html
+
+978.)0
+CIDEC Library: Preparata, Shamos * Computational Geometry
+http://greta.cs.ioc.ee/yik/lib/20/Prepa1.html
+
+979.)0
+Computational Geometry 1996
+http://sunsite.informatik.rwth-aachen.de/dblp/db/conf/compgeom/compgeom96.html
+
+980.)0
+Empty title field
+http://ftp.zib.de/Packages/mathprog/compu-geom
+
+981.)0
+24-384A -- Computational Geometry -- 1997 Fall
+http://www.me.cmu.edu/faculty1/shimada/cg97
+
+982.)0
+Computational Geometry
+http://www.cs.earlham.edu/~jimg/compgeo.html
+
+983.)0
+Computational Geometry
+http://www.dcc.unicamp.br/~guialbu/geometry.html
+
+984.)0
+Computational Geometry Handing
+http://www2.eng.cam.ac.uk/~mea/fluid/cfdlab/computational_geometry_handing.html
+
+985.)0
+Bookmarks for Matej Gombosi
+http://graph-srv.uni-mb.si/~matej/bookmark.htm
+
+986.)0
+Mark Eastlick - Research Links
+http://www.dcs.shef.ac.uk/~marke/research_links.html
+
+987.)0
+Odkazy
+http://intra.cmkos.cz/~honza/osvr/odkazy.htm
+
+988.)0
+Bart's Places (in Jakarta)
+http://www.cbn.net.id/users/barta
+
+989.)0
+Useful Links
+http://germs.cs.iastate.edu/links.html
+
+990.)0
+MATHPROG - References to other Optimization resources
+http://ftp.zib.de/Packages/mathprog/references
+
+991.)0
+Empty title field
+http://ssor.twi.tudelft.nl/~quist/bookmarks.html
+
+992.)0
+ME625: Surface Modeling
+http://www.eng.iastate.edu/~sarma/me625/ref.html
+
+993.)0
+Robotics
+http://w3.sys.es.osaka-u.ac.jp/~seke/robot
+
+994.)0
+Bookmarks for Julien Dompierre
+http://www.cerca.umontreal.ca/~julien/signets.html
+
+995.)0
+Bookmarks for Matthew Avalos
+http://waggle.gg.caltech.edu/~avalos/stuff/bookmarks_copy.html
+
+996.)0
+Bookmarks for Paul Hardy
+http://www.hardy.demon.co.uk/paul/bookmarks.html
+
+997.)0
+Vlad's Home Page
+http://www.cs.newcastle.edu.au/~vlad
+
+998.)0
+The Info Service
+http://info-s.com/math.html
+
+999.)0
+Operations Research
+http://www.cen.uiuc.edu/~tawarmal/pursuit.html
+
+1000.)0
+Empty title field
+http://users.interlinks.net/seth333/proglink.htm
+
+1001.)0
+Empty title field
+http://www.site.uottawa.ca/~hsingh
+
+1002.)0
+Link's im WWW zum Thema AutoCAD !
+http://www.baumeister.at/2/links.html
+
+1003.)0
+Chan-Su Shin - Home Page
+http://tclab.kaist.ac.kr/~cssin
+
+1004.)0
+Links' Page
+http://home.apu.edu/~ssambasi/links.htm
+
+1005.)0
+Grid Generation Links
+http://www.ccalmr.ogi.edu/gredit/gredit-links.html
+
+1006.)0
+efg's Mathematics Page
+http://www.efg2.com/Lab/Library/mathematics.htm
+
+1007.)0
+Computer Vision Source Code
+http://almond.srv.cs.cmu.edu/afs/cs.cmu.edu/project/cil/www/txtv-source.html
+
+1008.)0
+Links
+http://www.matesco.unican.es/links.html
+
+1009.)0
+Empty title field
+http://www.lim.univ-mrs.fr/~hung/opt.html
+
+1010.)0
+Canadian Conference on Computational Geometry  (8/95) by Jean-Marc Robert
+http://forum.swarthmore.edu/epigone/geometry-announcements/14
+
+1011.)0
+CS 497: Computational Geometry
+http://granmapa.cs.uiuc.edu/~jeffe/cs497/schedule.html
+
+1012.)0
+Computational Geometry Impact Task Force Report
+http://tclab.kaist.ac.kr/~dskim/library/report.html
+
+1013.)0
+Bibliography on computational geometry and volumetric visualization
+http://src.doc.ic.ac.uk/computing/bibliographies/Karlsruhe/Graphics/genova.html
+
+1014.)0
+CS 451: Computational Geometry
+http://ftp.cs.princeton.edu/courses/archive/spring98/cs451
+
+1015.)0
+AMCA: 11th Canadian Conference on Computational Geometry
+http://at.yorku.ca/cgi-bin/amca-calendar/public/display/conference_info/faak63
+
+1016.)0
+Bibliography on parallel computational geometry
+http://www.csse.monash.edu.au/mirrors/bibliography/Parallel/par.comp.geom.html
+
+1017.)0
+Computational Geometry in C  2/E
+http://www.weikeg.com.tw/english/CA009.htm
+
+1018.)0
+Burkhard Wald's Bookmarks
+http://www.uni-essen.de/~hrz030/iris1_bookmarks.html
+
+1019.)0
+Related Topics
+http://www-users.informatik.rwth-aachen.de/~roberts/related.html
+
+1020.)0
+Marco Arienti's HomePage
+http://www.galcit.caltech.edu/~arienti/perso/myp.html
+
+1021.)0
+Philip Fu's HOMEPAGE!
+http://grouchy.cs.indiana.edu/hyplan/cwfu.html
+
+1022.)0
+Geometria Computacional - IME-USP
+http://www.ime.usp.br/~freitas/gc
+
+1023.)0
+The Math Forum - Math Library - Computatnl Geom.
+http://forum.swarthmore.edu/library/topics/comp_geom
+
+1024.)0
+Alex's Interests Page
+http://www.civil.ist.utl.pt/~alexg/inter.html
+
+1025.)0
+Simon McPartlin's Bookmarks
+http://www.dcs.ed.ac.uk/home/sdnm/bookmarks.html
+
+1026.)0
+generalmethods
+http://www.voronoi.com/tutorials.html
+
+1027.)0
+Pattern Recognition on the Web
+http://jeff.cs.mcgill.ca/~godfried/teaching/pr-web.html
+
+1028.)0
+Jie Shen's -- Finite Element Method
+http://www.cs.usask.ca/homepages/grads/jis130/html/fem.html
+
+1029.)0
+Related Links
+http://www.ccrl-nece.technopark.gmd.de/~hartmann/links.html
+
+1030.)0
+More Links
+http://www.cuneytozdas.com/more_links.htm
+
+1031.)0
+Chen Yang Quan's Bookmarks
+http://cicserver.ee.nus.edu.sg/~ilc/bookmark.htm
+
+1032.)0
+Visualization Software
+http://www.cs.indiana.edu/l/www/classes/b689sv/software.html
+
+1033.)0
+Bookmark file
+http://www.uow.edu.au/~gp08/lynx_bookmarks.html
+
+1034.)0
+Siggraph 97 Bookmarks
+http://w3imagis.imag.fr/Membres/Fredo.Durand/Book/sig97.html
+
+1035.)0
+Links to Related Resources
+http://www.man.ac.uk/MVC/general/links.shtml
+
+1036.)0
+Related Links
+http://cggmwww.csie.nctu.edu.tw/links.html
+
+1037.)0
+Graphics Sites
+http://www2.cs.utah.edu/vissim/resources/sites.html
+
+1038.)0
+LS VII: Computer Graphics on the Web
+http://www.cs.mun.ca/~brown/courses/4751.f96/servers.html
+
+1039.)0
+Computer Graphics Research
+http://www.ulst.ac.uk/cticomp/graphres.html
+
+1040.)0
+VEGG: Useful web pages
+http://www.cs.ucl.ac.uk/research/vr/WebPages
+
+1041.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/121801-121850.html
+
+1042.)0
+links
+http://cgvr.korea.ac.kr/Links/links.html
+
+1043.)0
+Computational Geometry Research Groups
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/groups.html
+
+1044.)0
+Empty title field
+http://web.cs.ualberta.ca/~mario/CGVIZ/groups/Europe.htm
+
+1045.)0
+AG-Monien (Lehre WS 96/97)
+http://www.uni-paderborn.de/fachbereich/AG/monien/LEHRE/WS96_97/Lehre_ws96_97.html
+
+1046.)0
+LS VII: Computer Graphics on the Web
+http://ls7-www.cs.uni-dortmund.de/cgotn/cgotn
+
+1047.)0
+Grey Page to more Computational Geometry Resources
+http://www.geom.umn.edu/~mucke/GeomDir/resources.html
+
+1048.)0
+Research Resources
+http://www.cs.uwaterloo.ca/~yganjali/r_links.html
+
+1049.)0
+DSMFT Related Links
+http://www.cs.tamu.edu/faculty/amato/dsmft/links.shtml
+
+1050.)0
+Petr Felkel's Bookmarks
+http://www.fd.cvut.cz/studenti/xpaclik/misc/Felkel.html
+
+1051.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/057501-057550.html
+
+1052.)0
+David Eppstein - Publications
+http://www.ics.uci.edu/~eppstein/pubs/a-bern.html
+
+1053.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://nwi2.lub.lu.se/ae/bytitle/041051-041100.html
+
+1054.)0
+Laurent Lin's Home Page
+http://www.ece.nwu.edu/~laurent
+
+1055.)0
+FIG Related Sites
+http://duke.usask.ca/~macphed/soft/fig/related.html
+
+1056.)0
+NU ECE Research
+http://pubweb.nwu.edu/~mws715/ece/research.html
+
+1057.)0
+Software Visualization
+http://www4.informatik.tu-muenchen.de/~trilk/sv.html
+
+1058.)0
+Empty title field
+http://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html
+
+1059.)0
+Past Local and Regional Events
+http://www.cecm.sfu.ca/events_info/PastEvents
+
+1060.)0
+Symposium on Computational Geometry (SCG)
+http://www-sop.inria.fr/prisme/scg97/previous_scg.html
+
+1061.)0
+Links
+http://www.cs.rpi.edu/~flatland/links.html
+
+1062.)0
+Timothy M. Chan's Publications
+http://www.cs.uwaterloo.ca/~tmchan/pub.html
+
+1063.)0
+"All" Engineering Resources on the Internet (EELS), by Domain
+http://mother.lub.lu.se/ae/bydomain/010101-010150.html
+
+1064.)0
+Algorithms Information and Course Materials on the Net
+http://kmh.yeungnam-c.ac.kr/comScience/general/algorithm
+
+1065.)0
+Algorithms Information and Course Materials on the Net
+http://pikas.inf.tu-dresden.de/~hans/www-adr/alg_course.html
+
+1066.)0
+Computational Geometry Course Materials
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/courses.html
+
+1067.)0
+Bookmarks for Shwetal S. Parikh
+http://www-users.cs.umn.edu/~ssparikh/bookmarks.html
+
+1068.)0
+Robustesse
+http://www.mage.univ-mulhouse.fr/kauffmann/Robust.html
+
+1069.)0
+Empty title field
+http://www.cs.ucla.edu/~tenca/bestlinks.htm
+
+1070.)0
+D. T. Lee's Home Page
+http://www.iis.sinica.edu.tw/~dtlee/dtlee
+
+1071.)0
+Robustesse
+http://www.fst.univ-mulhouse.fr/~mage/kauffmann/Robust.html
+
+1072.)0
+Reviver Home Page
+http://members.tripod.com/~GeomWiz/develop.html
+
+1073.)0
+sci@{Codepage}
+http://www.eda.bg/docs/programming/tutors/sci.htm
+
+1074.)0
+Bookmarks for Bill Hill
+http://www.hgu.mrc.ac.uk/Users/Bill.Hill/bookmarks.html
+
+1075.)0
+The Math Forum - Math Library - Topic Misc.
+http://forum.swarthmore.edu/library/resource_types/topic_misc
+
+1076.)0
+Luiz C. G. Coelho's Bookmarks
+http://www.tecgraf.puc-rio.br/~lula/bookmarks.html
+
+1077.)0
+Exaflop Document
+http://www.exaflop.org/docs/cgafaq/cga5.html
+
+1078.)0
+School of Information Systems
+http://www.sys.uea.ac.uk
+
+1079.)0
+Computer Graphics on the Web
+http://pearl.cs.pusan.ac.kr/~yskim/research
+
+1080.)0
+news history
+http://www.enet.ru/eng/news.html
+
+1081.)0
+Computer Graphics Links
+http://homepages.feis.herts.ac.uk/~comrmf/Frames/index/ComputerGraphicsLinks.html
+
+1082.)0
+Bernard Maskit
+http://mathlab.mathlab.sunysb.edu/~bernie
+
+1083.)0
+Computer science and maths
+http://www.loria.fr/~petitjea/csmath.html
+
+1084.)0
+WWW Resources for Computational Metrology
+http://www.double-star.com/resource.html
+
+1085.)0
+Adam's Interim Homepage
+http://students.cec.wustl.edu/~ams5
+
+1086.)0
+Empty title field
+http://www.eng.usf.edu/~jojohnso/josh_links.htm
+
+1087.)0
+Spektri Business Park - Trio entrance floor
+http://www.spektri.fi/kartiso.htm
+
+1088.)0
+Opas 1999-2000
+http://www.hut.fi/Opinnot/Koulutusohjelmat/Tik/loppu.htm
+
+1089.)0
+florida state university
+http://www.fsu.edu
+
+1090.)0
+City of Tallahassee - Tallahassee In-Touch
+http://www.state.fl.us/citytlh
+
+1091.)0
+www.myflorida.com
+http://www.state.fl.us
+
+1092.)0
+CCG workshop, hotels
+http://klein.math.fsu.edu/~seppala/Symbolic/Workshops/CCGatFSU98/Hotel.html
+
+1093.)0
+Taneli Huuskonen
+http://www.helsinki.fi/~huuskone
+
+1094.)0
+My good Links
+http://www.cs.mcgill.ca/~gstamm/links.html
+
+1095.)0
+Robert Penner
+http://www.usc.edu/dept/physics/people/Faculty/rpenner.html
+
+1096.)0
+Klaus-Dieter Semmler's Home Page
+http://dmawww.epfl.ch/geometrie/members/semmler.html
+
+1097.)0
+newpage1
+http://www.math.utk.edu/~kens
+
+1098.)0
+Campus Map
+http://www.fsu.edu/Campus/newmap
+
+1099.)0
+Tallahassee Map
+http://www.fsu.edu/Welcome/tallymaps/tallymap.html
+
+1100.)0
+Interactive Marine Weather | Florida
+http://www.nws.fsu.edu/buoy/fl.html
+
+1101.)0
+Imagery
+http://www.met.fsu.edu/explores/imagery.html
+
+1102.)0
+Mika Sepp&auml;l&auml;, home page
+http://klein.math.fsu.edu/~seppala
+
+1103.)0
+Conferences,  ÓÌÙÂÂÌˆËË, Mathematics, Ã‡ÚÂÏ‡ÚËÍ‡
+http://tst.imbs.com/t6.htm
+
+1104.)0
+Conferences
+http://www.kusm.kyoto-u.ac.jp/complex/link_confold_E.html
+
+1105.)0
+Algorithmics and Optimization Group: Libraries
+http://www.diku.dk/research-groups/algorithms/libraries.html#LEDA
+
+1106.)0
+LINK: Peak-time overload
+http://www3.nd.edu/ndlibs/clickcount.pl?url=http://link.springer.de/link/service/journals/00454
+
+1107.)0
+ALGORITHMS
+http://www.cs.umbc.edu/~hosu/algorithm.html
+
+1108.)0
+Assorted Math Topics on the Web
+http://www.math.hmc.edu/misc/topics.html
+
+1109.)0
+TÁmas
+http://www.lanet.lv/info/intermat/liga/tema.htm
+
+1110.)0
+“µ”‡ ˝—ßÃÏµÿ-Õ¯…œ◊ ‘¥
+http://extend.hk.hi.cn/~zzm/resource.htm
+
+1111.)0
+Relevant Links
+http://moscow.cityu.edu.hk/~ma4527/links.htm
+
+1112.)0
+AITLC Student Guide to Geometry
+http://tlc.ai.org/geometry.htm
+
+1113.)0
+Wu, Baohua's Homepage
+http://cereal.rutgers.edu/~baowu
+
+1114.)0
+Karen Paffendorf at Rutgers
+http://www.paffendorf.sj.ca.us/rutgers.html
+
+1115.)0
+Wu, Baohua's Homepage
+http://paul.rutgers.edu/~baowu
+
+1116.)0
+DSMFT Related Links
+http://www.cs.tamu.edu/faculty/amato/dsmft/links.shtml#Geometry
+
+1117.)0
+Scott Arvin: PhD Course Work
+http://www-viz.tamu.edu/students/arvin/courses.html
+
+1118.)0
+Operations Research Conferences 1995
+http://mat.gsia.cmu.edu/confer_1995.html
+
+1119.)0
+About our Institute
+http://www.renyi.hu/facts.html
+
+1120.)0
+Thomas (Aalim Zakee) Fevens: Home Page
+http://www.qucis.queensu.ca/home/fevens
+
+1121.)0
+Research Groups
+http://rabosa.inf.uji.es/cvgroups/cvgroups.html
+
+1122.)0
+Algorithmica 19: 61-83 (1997)
+http://link.springer-ny.com/link/service/journals/00453/bibs/19n1p61.html
+
+1123.)0
+Robotics Institute: Minimal Fixturing of Frictionless Assemblies: Complexity and Algorithms
+http://www.ri.cmu.edu/pubs/pub_2292.html
+
+1124.)0
+Bookmarks for Cordioli Mauro 355387IF
+http://www.dei.unipd.it/~cordiol/book.html
+
+1125.)0
+Empty title field
+http://ezmo.com/jason/links.html
+
+1126.)0
+SCG'97 Travel Information
+http://www.inria.fr/prisme/scg97/info.html
+
+1127.)0
+Konferenzen, Journals und WWW-links, zu den Themen GIS, DTM-Modelling, Cartography; Robert Weibel, 1998
+http://www.gis.univie.ac.at/karto/lehr/modellierung/1998/weibel/digitale_gelaendemodellierung/dtm_links.html
+
+1128.)0
+Helpful References
+http://www.mts.jhu.edu/~wagner/gdref.html
+
+1129.)0
+$B4XO"$9$k%Z!<%8$X$N%j%s%/(B
+http://www.yamaguchi.mech.waseda.ac.jp/link-j.html
+
+1130.)0
+Manuela Neagu's publications & communications
+http://www.fst.univ-mulhouse.fr/~mage/neagu/publis.html
+
+1131.)0
+Geomatics Links
+http://www.surv.ufl.edu/~sam/geomatics.htm
+
+1132.)0
+Marrison Technologies -- Information Center
+http://www.marrison.com/ic/pages/C/challenges.html
+
+1133.)0
+Avis and Fukuda: comments on CG taskforce report
+http://granmapa.cs.uiuc.edu/~jeffe/compgeom/files/avis.html
+
+1134.)0
+Untitled
+http://www.softlab.ece.ntua.gr/~cfrag
+
+1135.)0
+Prospective scientifique
+http://www.inria.fr/Direction-scientifique/ProspScientifique.html
+
+1136.)0
+Bookmarks for Kim Dae Hyun
+http://rabbit.prakinf.tu-ilmenau.de/~kim/bookmarks.html
+
+1137.)0
+Lupinhos Links
+http://www.lupinho.de/links.html
+
+1138.)0
+VL+PS "Algorithmische Geometrie"
+http://www.cosy.sbg.ac.at/~held/teaching/compgeo/comp_geo.html
+
+1139.)0
+Bookmarks for Roberto de Beauclair Seixas
+http://www.tecgraf.puc-rio.br/~tron/bookmarks.html
+
+1140.)0
+Computer Graphics Bookmarks
+http://www.graphics.lcs.mit.edu/~fredo/Book/geoAlgo.html
+
+1141.)0
+George Drettakis's Bookmarks
+http://www-imagis.imag.fr/Membres/George.Drettakis/currbookmarks.html
+
+1142.)0
+Bookmarks for Finn H}kansson
+http://www.ludat.lth.se/~dat93fha/bookmarks.html
+
+1143.)0
+Bookmarks for Ed H. Chi
+http://winter.cs.umn.edu/~echi/bookmarks.html
+
+1144.)0
+Computational Geometry on the Web
+http://jeff.cs.mcgill.ca/~godfried/teaching/cg-web.html
+
+1145.)0
+3D Computer Graphics :: General Information
+http://mkrus.free.fr/CG/info.html
+
+1146.)0
+Computer Science - Selected Websites, Datasets and Internet Resources
+http://www.auckland.ac.nz/lbr/comp/compmeta.htm
+
+1147.)0
+Algorithms in the Real World: Triangulation
+http://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/triang.html
+
+1148.)0
+Michel Couprie's bookmarks
+http://www.esiee.fr/~coupriem/book.htm
+
+1149.)0
+Bookmarks for Bob Lewis
+http://www.tricity.wsu.edu/~bobl/bookmarks.html
+
+1150.)0
+Miscellaneous graphics links
+http://www.cis.uab.edu/info/grads/ms/misc.html
+
+1151.)0
+Empty title field
+http://www.lib.sfu.ca/kiosk/sfu_acm_proceedings.htm
+
+1152.)0
+Noticias y foros de discusi&oacute;n
+http://www.cica.es/aliens/bfmus/notfor.htm
+
+1153.)0
+UCL: ACM Proceedings (Fulltext)
+http://www.lib.uconn.edu/gateway/proceed.html
+
+1154.)0
+Empty title field
+http://www.cs.duke.edu/~laura/journals.html
+
+1155.)0
+Computational Geometry Past Events
+http://compgeom.cs.uiuc.edu/~jeffe/compgeom/pastevents.html
+
+1156.)0
+Bookmarks for Daniel Acevedo Feliz
+http://www.cs.brown.edu/people/daf/bookmarks.html
+
+1157.)0
+Untitled Document
+http://chromecow.electrondreams.com/SeansTricks.htm
+
+1158.)0
+Bookmarks for Geoff Fox
+http://zombie.serv.com.au/bookmarks.html
+
+1159.)0
+Home page for Qhull
+http://www.geom.umn.edu/software/qhull/welcome.html
+
+1160.)0
+Computer Vision and Robotics Info
+http://www.ics.forth.gr/proj/cvrl/info
+
+1161.)0
+Web Links. -- Algorithms
+http://www.risc.uni-linz.ac.at/people/irents/links/links_32.html
+
+1162.)0
+Empty title field
+http://www.erc.msstate.edu/~xqw/modeling/modeling.html
+
+1163.)0
+Links.html
+http://www.iwr.uni-heidelberg.de/iwr/comopt/mitarbeiter/simon/links.html
+
+1164.)0
+Link Collections
+http://agnews.tamu.edu/~jpalmer/bookmarks/Computer_Graphics_Link_Collections_index.html
+
+1165.)0
+Computational Geometry software bookmarks
+http://dimacs.rutgers.edu/~istreinu/Reconnect99/software.html
+
+1166.)0
+Bookmarks for Chen Lee
+http://www.cs.cmu.edu/afs/cs.cmu.edu/user/clee/www/bookmarks.html
+
+1167.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/004651-004700.html
+
+1168.)0
+Academics
+http://tux.cs.brown.edu/people/ssb/personal/acad.html
+
+1169.)0
+Center for Geometric Computing
+http://www.cs.brown.edu/cgc/home.html
+
+1170.)0
+Computer Science: Conferences 1996
+http://www.fmi.uni-konstanz.de/Info/Conferences/conferences.96.html
+
+1171.)0
+Empty title field
+http://netlib.bell-labs.com/netlib/compgeom/announce/archive/all/m193.html
+
+1172.)0
+Empty title field
+http://www.erc.msstate.edu/~roy/PET/ASC/CFD/CFD_conference.html
+
+1173.)0
+Ileana Streinu's Bookmarks
+http://sophia.smith.edu/~streinu/330/Fall97/Lectures/Lecture1/bookmarks.html
+
+1174.)0
+My Link
+http://www2.cp.eng.chula.ac.th/~g41tur/mylink.htm
+
+1175.)0
+Bookmarks for Rao Garimella
+http://scorec.rpi.edu/~garimell/links.html
+
+1176.)0
+Untitled
+http://home.cc.umanitoba.ca/~benbow/dem.html
+
+1177.)0
+Mathematics - Selected Websites, Datasets and Internet Resources
+http://www.auckland.ac.nz/lbr/math/mathmeta.htm
+
+1178.)0
+"All" Engineering Resources on the Internet (EELS), by Title
+http://mother.lub.lu.se/ae/bytitle/043501-043550.html
+
+1179.)0
+Empty title field
+http://mda.uab.es/mapa_selec.html
+
+1180.)0
+Bookmarks for Gergely Bone
+http://webspn.hit.bme.hu/~bardosy/gergo_bookmark.html
+
+1181.)0
+Bookmarks de PMJ sobre Bibliotecas, etc.
+http://www.dmat.ufpe.br/~peterj/Biblio.html
+
+1182.)0
+Vorlesung: Algorithmische Geometrie
+http://www.informatik.uni-trier.de/~kessler/ag.html
+
+1183.)0
+CS-507A: Computational Geometry
+http://www-cgrl.cs.mcgill.ca/~godfried/teaching/cg-info.html
+
+1184.)0
+publications
+http://www.cs.rug.nl/~gert/research/publications.html
+
+1185.)0
+Geometric range searching and its relatives
+http://compgeom.cs.uiuc.edu/~jeffe/pubs/survey.html
+
+1186.)0
+14th European Workshop on Computational Geometry, CG'98
+http://www-ma2.upc.es/~geomc/events/cg98/cg98.html
+
+1187.)0
+Curso de CGAL
+http://www-ma2.upc.es/~geomc/events/cursoCGAL/cursoCGAL.html
+
+1188.)0
+Institut d'OrganitzaciÛ i Control de Sistemes Industrials
+http://www.ic.upc.es
+
+1189.)0
+format
+http://www.lsi.upc.es/~lauraf/xt
+
+1190.)0
+Pedro A. Ramos - Personal Page
+http://www2.alcala.es/matema/pp/pramos/inicio.htm
+
+1191.)0
+Computer Science: Conferences 1998
+http://www.fmi.uni-konstanz.de/Info/Conferences/conferences.98.html
+
+1192.)0
+00proj
+http://poncelet.math.nthu.edu.tw/chuan/history/00proj.html
+
+1193.)0
+Computational Geometers
+http://www.matem.unam.mx/~urrutia/CompGeomInfo/People.html
+
+1194.)0
+Web Links d'en Toni Sellar&egrave;s
+http://ima.udg.es/~sellares/lnk.html
+
+1195.)0
+Grupos de InvestigaciÛn
+http://rabosa.inf.uji.es/cvgroups/cvgrupos.html
+
+1196.)0
+Jeff Erickson's Publications
+http://compgeom.cs.uiuc.edu/~jeffe/pubs/pubs.html
+
+1197.)0
+Artur Czumaj - Conferences
+http://www.uni-paderborn.de/~artur/Konferencje.html
+
+1198.)0
+Michael Trick's Operations Research Page
+http://ktmp.kaist.ac.kr/~skrhee/internet_mgt/or.htm
+
+1199.)0
+Michael Trick's Operations Research Page
+http://web.bilkent.edu.tr/trick.html
+
+1200.)0
+Empty title field
+http://netlib.bell-labs.com/netlib/compgeom/announce/archive/all/m44.html
+
+1201.)0
+General interest link list
+http://www.lcvm.umd.edu/other.html
+
+1202.)0
+socg95@{Codepage}
+http://www2.iro.umontreal.ca/~ratib/code/socg95.htm
+
+1203.)0
+ANALYSIS of ALGORITHMS (People)
+http://www.wits.ac.za/helmut/AofA/People
+
+1204.)0
+Tagungsbaende elektronisch
+http://www-db.informatik.uni-hannover.de/info/dbis/Tagungsbaende-elektronisch.html
+
+1205.)0
+ETH-Bibliothek: Virtual Library - Computer Science - Electronic Journals
+http://www.ethbib.ethz.ch/virtuell/090/sg090ez_e.html
+
+1206.)0
+Dennis Decoste - JPL AI Group
+http://www-aig.jpl.nasa.gov/public/home/decoste/home.html
+
+1207.)0
+Electronic Journals - Full Listing
+http://www.hku.hk/lib/Electronic/ej_P.html
+
+1208.)0
+Penn Library-ACM Conferences
+http://www.library.upenn.edu/resources/ej/ej-acm.html
+
+1209.)0
+Computational Geometry
+http://sunsite.informatik.rwth-aachen.de/dblp/db/conf/compgeom
+
+1210.)0
+S. Lazard's list of publications
+http://www.loria.fr/~lazard/publications.html
+
+1211.)0
+ETH-Bibliothek: Electronic Journals
+http://www.ethbib.ethz.ch/ejour/ejour7_e.html
+
+1212.)0
+Bio Sketch
+http://istel.ing.unipg.it/PAG_PERS/liotta/res-interests.htm
+
+1213.)0
+Petri Koistinen's Bookmarks
+http://www.rni.helsinki.fi/~pek/bookmarks.html
+
+1214.)0
+Bookmarks for Carl Lukefahr
+http://www.inlink.com/~carl/hotlist.htm
+
+1215.)0
+Bookmarks for jeSPer hOLm
+http://www.ebar.dtu.dk/~c961050/cgi-bin/bookmarks.pl
+
+1216.)0
+Primer_Anuncio
+http://rabosa.act.uji.es/egc8/anuncios/Primer_Anuncio.html
+
+1217.)0
+Rafael's Link Collection
+http://www.math.umn.edu/~flores/nbmc.html
+
+1218.)0
+Graph Layout by A.E.Hofton
+http://www.dur.ac.uk/~dcs3aeh/graphlayout/graphlayout.html
+
+1219.)0
+Bal&aacute;zs K&eacute;gl
+http://www.cs.concordia.ca/~grad/kegl/resume.html
+
+1220.)0
+AofA: Barcelona Seminar
+http://www.lsi.upc.es/~aofa/bcn99.html
+
+1221.)0
+Computer Science: Conferences
+http://funinf.math.unibuc.ro/info/conferences1.html
+
+1222.)0
+Ullrich K&ouml;thes Software Engineering Hotlist
+http://kogs-www.informatik.uni-hamburg.de/~koethe/hotlist_se.html
+
+1223.)0
+Links to Erich
+http://www.stetson.edu/~efriedma/links
+
+1224.)0
+ywlaw's Bookmarks on MyBookmarks.com
+http://www.mybookmarks.com/public/ywlaw/exo_folders
+
+1225.)0
+Bookmarks for Arne Handt
+http://user.cs.tu-berlin.de/~handt/bookmarks.html
+
+1226.)0
+Past and Future Conferences and Similar Events
+http://www.cosy.sbg.ac.at/~held/events.html
+

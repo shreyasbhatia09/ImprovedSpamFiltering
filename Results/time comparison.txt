@@ -1,0 +1,2 @@
+serial -case1   computational geometry   6 sec          1266 node
+serial -case2   net censor ship         32 sec         2583 nodes
